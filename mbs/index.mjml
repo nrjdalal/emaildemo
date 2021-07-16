@@ -416,7 +416,7 @@
     </mj-section>
 
     <mj-section background-color="#FFFFFF">
-      <mj-column padding="24px 0">
+      <mj-column padding="24px 0 0 0">
         <mj-text
           color="#171717"
           align="center"
@@ -456,17 +456,6 @@
           Mister Bamboo Straws is already working with the biggest brands in
           liquor and soft drinks, so join this international movement of
           sustainability soldiers and become an eco-friendly brand.
-        </mj-text>
-        <mj-text
-          color="#14B8A6"
-          align="center"
-          line-height="1.4"
-          font-family="'Josefin Sans', sans-serif;"
-          font-size="16px"
-          font-weight="500"
-          text-transform="uppercase"
-        >
-          Talk to us today!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -593,6 +582,98 @@
       <mj-column>
         <mj-image
           src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-diameter-1920x672-min.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Packaging -->
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          PACKAGING
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Choose Standard Or Personalized Packaging
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          For our standard packaging, your bamboo straws are 20cm or 12.5cm long
+          which varies slightly based on the bamboo thickness. We separate the
+          diameters into 5mm-11mm for normal straws and 11mm-15mm for thicker
+          drinks like smoothies, bubble tea and milkshakes. We use sustainable
+          product packaging as it’s made of recycled materials – the cardboard
+          boxes come from recycled Kraft paper to make it as eco-friendly as
+          possible. Our pouches carry 2 or 5 bamboo straws, while our cardboard
+          boxes carry 25, 50, 100, 200, or 1000 straws.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#171717">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Verpakkingen-1920x1080-min.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Personalized Packaging
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          We are also happy to create unique packaging that captures your
+          specific brand and style. Simply send us the logo and preferred text,
+          and we will insert this on all our sustainable product packaging.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#171717">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Merken-verpakkingen-1920x1080-min.png"
           alt=""
           padding="0"
         />
