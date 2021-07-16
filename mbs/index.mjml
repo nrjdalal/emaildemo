@@ -834,7 +834,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0" background-color="#FFFFFF">
+    <mj-section padding="0 0 36px 0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
           src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bombay-Sapphire-Limited-Edition-English-Estate-min.jpg"
