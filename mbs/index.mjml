@@ -1,9 +1,32 @@
 <mjml>
   <mj-body>
+    <mj-section background-color="#ef6451">
+      <mj-column>
+        <mj-navbar
+          base-url="https://mjml.io"
+          hamburger="hamburger"
+          ico-color="#ffffff"
+        >
+          <mj-navbar-link href="/gettings-started-onboard" color="#ffffff"
+            >Getting started</mj-navbar-link
+          >
+          <mj-navbar-link href="/try-it-live" color="#ffffff"
+            >Try it live</mj-navbar-link
+          >
+          <mj-navbar-link href="/templates" color="#ffffff"
+            >Templates</mj-navbar-link
+          >
+          <mj-navbar-link href="/components" color="#ffffff"
+            >Components</mj-navbar-link
+          >
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
     <mj-section>
-      <mj-column width="">
+      <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2020/11/Tagline-min-768x432.png"
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bombay-Sapphire-Limited-Edition-English-Estate-min.jpg"
           alt=""
         />
       </mj-column>
