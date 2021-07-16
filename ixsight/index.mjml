@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head> </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#FFFFFF" padding-bottom="0">
+      <mj-column padding="0">
+        <mj-text
+          line-height="1.4"
+          font-size="14px"
+          align="center"
+          padding-top="0"
+          padding-bottom="0"
+        >
+          <h2 color="#0369A1">Wrong payouts</h2>
+        </mj-text>
+        <mj-text
+          line-height="1.4"
+          font-size="14px"
+          align="center"
+          padding-top="0"
+          padding-bottom="0"
+        >
+          <h3 color="#0369A1">may be due to Customer Merged Incorrectly</h3>
+        </mj-text>
+        <mj-image
+          src="http://www.ixsight.com/images/logo.png"
+          alt=""
+          padding-top="0"
+          padding-right="15px"
+          padding-left="15px"
+          width="144px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/undraw_transfer_money_rywa.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-divider
+          border-width="2px"
+          border-style="solid"
+          border-color="lightgrey"
+        />
+        <mj-text
+          line-height="1.4"
+          font-size="15px"
+          align="center"
+          padding-top="0"
+          padding-bottom="0"
+          color="#DC2626"
+        >
+          <h4>
+            Use India’s Industry’s Leading Deduplication Solution Deduplix and
+            correct these issues – one-time and for perpetuity.
+          </h4>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#FFFFFF" padding-top="0">
+      <mj-section background-color="#DDDDDD">
+        <mj-column width="256px">
+          <mj-image
+            src="https://source.unsplash.com/320x200?technology,1"
+            alt=""
+          />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text line-height="1.3" font-size="13px">
+            If you have already created "Unique Customer Identification Code"
+            through any other process or solution - it is possible that demands
+            of business and multiple systems may have created  inaccuracies or
+            linking of unrelated parties which in turn impact Compliance
+            adherence and payouts.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#EEEEEE">
+        <mj-column width="256px">
+          <mj-image
+            src="https://source.unsplash.com/320x200?technology,2"
+            alt=""
+          />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text line-height="1.3" font-size="13px">
+            Deduplix team provides strong combination of  Best
+            -in-class-Solution + Professional Expertise + Engineering skills.
+            Deduplix intelligently handles Indian Data nuances.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#DDDDDD">
+        <mj-column width="256px">
+          <mj-image
+            src="https://source.unsplash.com/320x200?technology,3"
+            alt=""
+          />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text line-height="1.3" font-size="13px">
+            Deduplix is BFSI’s most reliable, accurate and scientific solution. 
+            Highly Configurable with multiple match methods & options to set
+            Customer identification & Fraud control Rules, multiple database
+            match capability combined with high quality output and great
+            performance. When it comes to serious Relationship Discovery look no
+            further than Deduplix.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
