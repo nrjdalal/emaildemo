@@ -4,36 +4,14 @@
   <mj-body>
     <mj-section background-color="#FFFFFF" padding-bottom="0">
       <mj-column padding="0">
-        <mj-text
-          line-height="1.4"
-          font-size="14px"
-          align="center"
-          padding-top="0"
-          padding-bottom="0"
-        >
-          <h2 color="#0369A1">Wrong payouts</h2>
-        </mj-text>
-        <mj-text
-          line-height="1.4"
-          font-size="14px"
-          align="center"
-          padding-top="0"
-          padding-bottom="0"
-        >
-          <h3 color="#0369A1">may be due to Customer Merged Incorrectly</h3>
-        </mj-text>
         <mj-image
-          src="http://www.ixsight.com/images/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/ixsight-0.png"
           alt=""
-          padding-top="0"
-          padding-right="15px"
-          padding-left="15px"
-          width="144px"
         />
       </mj-column>
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/undraw_transfer_money_rywa.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/ixsight-1.png"
           alt=""
         />
       </mj-column>
