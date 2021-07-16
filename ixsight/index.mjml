@@ -3,16 +3,18 @@
 
   <mj-body>
     <mj-section background-color="#FFFFFF" padding-bottom="0">
-      <mj-column padding="0">
+      <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/ixsight-0.png"
           alt=""
+          padding="0"
         />
       </mj-column>
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/ixsight/ixsight-1.png"
+          src="https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/order_attachments/d5a0eefb340415b5ae3bc34c1ea1074a-1626274984146/WrongClaimsMerge_DTIxsight.jpg?__cld_token__=exp=1626455294~hmac=aadb606a4c3622824bf58715e1617150993dfb29db9d7fa4a8f3ba2beb8c764d"
           alt=""
+          padding="0"
         />
       </mj-column>
     </mj-section>
