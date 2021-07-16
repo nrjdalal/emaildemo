@@ -365,6 +365,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- branding -->
     <mj-section background-color="#FFFFFF">
       <mj-column padding="24px 0">
         <mj-text
@@ -588,7 +589,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Packaging -->
+    <!-- packaging -->
     <mj-section background-color="#171717">
       <mj-column padding="24px 0">
         <mj-text
@@ -676,6 +677,169 @@
           src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Merken-verpakkingen-1920x1080-min.png"
           alt=""
           padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- certification -->
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          CERTIFICATION
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Certified For Safe Use
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          Rest assured, we have all the requisite certifications for complete
+          compliance with the European and American regulations for food contact
+          materials and food safety. Our bamboo straws have been independently
+          tested by the SGS and TUV Rheinland to guarantee that they are safe to
+          use.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- news -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          NEWS
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Global Partner
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          For the new category of Hard Seltzers, direct from Ketel1. Summer is
+          coming!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Ketel1-800x800-min.jpg"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Bandidos
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          Surprise your guests with Premium Bamboo Drinking Straws. Show your
+          guests that your bar or restaurant is more and more sustainable.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bandido-800x800-min.jpg"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Bombay Sapphire
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          Specially laser-branded Bamboo Drinking Straws for the limited edition
+          gins from Bombay Sapphire.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bombay-Sapphire-Limited-Edition-English-Estate-min.jpg"
+          alt=""
+          width="300px"
         />
       </mj-column>
     </mj-section>
