@@ -1,34 +1,90 @@
 <mjml>
+  <mj-head>
+    <mj-font
+      name="Josefin Sans"
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600&display=swap"
+    />
+  </mj-head>
+
   <mj-body>
-    <mj-section background-color="#ef6451">
+    <mj-section background-color="#CBD5E1" padding="0">
       <mj-column>
         <mj-navbar
-          base-url="https://mjml.io"
+          base-url="https://misterbamboostraws.com"
           hamburger="hamburger"
-          ico-color="#ffffff"
+          ico-color="#000000"
+          ico-font-size="20px"
         >
-          <mj-navbar-link href="/gettings-started-onboard" color="#ffffff"
-            >Getting started</mj-navbar-link
+          <mj-navbar-link href="/#whybamboo" color="#000000" font-size="10px"
+            >WHY BAMBOO</mj-navbar-link
           >
-          <mj-navbar-link href="/try-it-live" color="#ffffff"
-            >Try it live</mj-navbar-link
+          <mj-navbar-link
+            href="/#laserbranding"
+            color="#000000"
+            font-size="10px"
+            >LASER BRANDING</mj-navbar-link
           >
-          <mj-navbar-link href="/templates" color="#ffffff"
-            >Templates</mj-navbar-link
+          <mj-navbar-link href="/#packaging" color="#000000" font-size="10px"
+            >PACKGING</mj-navbar-link
           >
-          <mj-navbar-link href="/components" color="#ffffff"
-            >Components</mj-navbar-link
+          <mj-navbar-link href="/#news" color="#000000" font-size="10px"
+            >NEWS</mj-navbar-link
+          >
+          <mj-navbar-link href="/#shop" color="#000000" font-size="10px"
+            >SHOP</mj-navbar-link
+          >
+          <mj-navbar-link href="/#contact" color="#000000" font-size="10px"
+            >CONTACT</mj-navbar-link
           >
         </mj-navbar>
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bombay-Sapphire-Limited-Edition-English-Estate-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/hero.png"
           alt=""
+          padding="0"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="24px"
+          font-weight="600"
+        >
+          WHY BAMBOO?
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="400"
+          text-transform="uppercase"
+        >
+          The Brilliant Solution To Sustainability
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          As a natural resource, bamboo offers a myriad of advantages that make
+          it the best solution to reducing waste and creating sustainable
+          solutions to stubborn business problems.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
