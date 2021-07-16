@@ -84,5 +84,250 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-bundled-800x450-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          RE-USABLE
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coconut-800x450-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          BIODEGRADABLE
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-pouch-800x450-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          SUSTAINABLE
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8554-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          ZERO WASTE
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8465-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          100% NATURAL
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8489-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          ECO-FRIENDLY
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8521-min.jpg"
+          alt=""
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="20px"
+          font-weight="500"
+          text-transform="uppercase"
+          padding-bottom="0"
+        >
+          HANDMADE WITH LOVE
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="left"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          Bamboo extends the life of each straw by 100 times! Save money and
+          reduce waste one straw at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
