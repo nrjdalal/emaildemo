@@ -16,19 +16,16 @@
           ico-font-size="20px"
         >
           <mj-navbar-link href="/#whybamboo" color="#000000" font-size="10px"
-            >WHY BAMBOO</mj-navbar-link
+            >WHY US</mj-navbar-link
           >
           <mj-navbar-link
             href="/#laserbranding"
             color="#000000"
             font-size="10px"
-            >LASER BRANDING</mj-navbar-link
+            >BRANDING</mj-navbar-link
           >
           <mj-navbar-link href="/#packaging" color="#000000" font-size="10px"
             >PACKGING</mj-navbar-link
-          >
-          <mj-navbar-link href="/#news" color="#000000" font-size="10px"
-            >NEWS</mj-navbar-link
           >
           <mj-navbar-link href="/#shop" color="#000000" font-size="10px"
             >SHOP</mj-navbar-link
