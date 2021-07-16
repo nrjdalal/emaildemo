@@ -332,7 +332,7 @@
 
     <mj-section background-color="#171717" padding="24px 0">
       <mj-column>
-        <mj-button background-color="#171717" border="2px solid white"
+        <mj-button background-color="#171717" border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -348,7 +348,7 @@
         >
       </mj-column>
       <mj-column>
-        <mj-button background-color="#171717" border="2px solid white"
+        <mj-button background-color="#171717" border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
