@@ -7,7 +7,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#CBD5E1" padding="0">
+    <mj-section background-color="#F1F5F9" padding="0">
       <mj-column>
         <mj-navbar
           base-url="https://misterbamboostraws.com"
