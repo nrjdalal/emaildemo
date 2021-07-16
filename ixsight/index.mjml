@@ -2,6 +2,17 @@
   <mj-head> </mj-head>
 
   <mj-body>
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-text line-height="1.2" align="center"
+          ><h1>
+            SIR WE ARE SORRY, CONTACT US AT
+            <br />+91-9999-373-188<br />
+            IF YOU DON'T WANT TO CONTINUE AND WE WILL RETURN YOUR MONEY
+          </h1></mj-text
+        >
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#FFFFFF" padding-bottom="0">
       <mj-column>
         <mj-image
