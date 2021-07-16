@@ -364,5 +364,150 @@
         >
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          LASER BRANDING
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          STYLE YOUR STRAWS
+        </mj-text>
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          You can personalize and individualize your straws with laser-marking,
+          laser-branding, or laser-engraving – all of which mean the same thing.
+          Using a best-in-market CO2 laser machine from Perfect Laser, with a
+          30W Synrad metal laser module, we can create distinctive straws that
+          express the style of your brand.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coca-Cola-animation3-2.gif"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          With the best equipment, we can create the best quality laser-marking!
+          This is sure to be an impactful conversation starter as we can even
+          personalize your packaging with the company logo or text. Not only
+          will you make a statement about the values your company holds dear,
+          but you will also make sure customers never forget which brand
+          genuinely cares about protecting the environment.
+        </mj-text>
+
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          Set your brand apart as one that actively drives sustainability, and
+          show them that you don’t just... Talk the talk... You walk the walk!
+        </mj-text>
+
+        <mj-text
+          color="#171717"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          Mister Bamboo Straws is already working with the biggest brands in
+          liquor and soft drinks, so join this international movement of
+          sustainability soldiers and become an eco-friendly brand.
+        </mj-text>
+        <mj-text
+          color="#14B8A6"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Talk to us today!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 0 24px 0">
+      <mj-column>
+        <mj-button
+          background-color="#FFFFFF"
+          border="2px solid #171717"
+          color="#171717"
+          ><mj-text
+            align="left"
+            line-height="1.4"
+            font-family="'Josefin Sans', sans-serif;"
+            font-size="20px"
+            font-weight="500"
+            text-transform="uppercase"
+            padding-bottom="0"
+          >
+            HOTEL RESORTS
+          </mj-text></mj-button
+        >
+      </mj-column>
+      <mj-column>
+        <mj-button
+          background-color="#FFFFFF"
+          border="2px solid #171717"
+          color="#171717"
+          ><mj-text
+            align="left"
+            line-height="1.4"
+            font-family="'Josefin Sans', sans-serif;"
+            font-size="20px"
+            font-weight="500"
+            text-transform="uppercase"
+            padding-bottom="0"
+          >
+            PREMIUM GIVE-AWAYS
+          </mj-text></mj-button
+        >
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
