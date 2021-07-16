@@ -509,5 +509,94 @@
         >
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          DIMENSIONS
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Size Is Up
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          The standard length of our bamboo straws is 20cm or 12,5cm. But you
+          can also request other lengths and we will happily deliver a
+          customized product that meets your exact specifications.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straw-sizes-1920x1080-min.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Get Bamboo Straws in these dimensions
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          For normal high-ball glasses, you will need the 20cm straws, and for
+          low-ball or whiskey glasses and cocktail glasses, you will need 12,5cm
+          straws. The diameter will vary thanks to the natural thickness of each
+          individual bamboo piece, but we divide diameters for different drinks
+          into 5mm-11mm for normal drinks and 11mm-15mm for thick smoothies,
+          bubble tea and milkshakes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-diameter-1920x672-min.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
