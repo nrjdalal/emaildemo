@@ -331,11 +331,12 @@
     </mj-section>
 
     <mj-section background-color="#171717">
-      <mj-column padding="0">
+      <mj-column>
         <mj-button
           align="right"
           background-color="#171717"
           border="2px solid white"
+          padding="24px 10px"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -350,11 +351,12 @@
           </mj-text></mj-button
         >
       </mj-column>
-      <mj-column padding="0">
+      <mj-column>
         <mj-button
           align="left"
           background-color="#171717"
           border="2px solid white"
+          padding="24px 10px"
           ><mj-text
             color="#FFFFFF"
             align="left"
