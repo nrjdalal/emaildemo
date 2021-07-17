@@ -756,6 +756,29 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="#DDDDDD">
+      <mj-column>
+        <mj-image
+          src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.svg"
+          alt=""
+          height="64px"
+        /> </mj-column
+      ><mj-column>
+        <mj-image
+          src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Food_and_Drug_Administration_logo.svg"
+          alt=""
+          height="64px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://upload.wikimedia.org/wikipedia/commons/3/36/TUEV-Rheinland-Logo1.svg"
+          alt=""
+          height="64px"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- news -->
     <mj-section background-color="#FFFFFF">
       <mj-column padding="24px 0">
