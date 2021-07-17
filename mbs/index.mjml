@@ -922,13 +922,25 @@
     <mj-section background-color="#FFFFFF" padding="0" padding-bottom="24px">
       <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="instagram" href="https://mjml.io/">
+          <mj-social-element
+            name="instagram"
+            href="https://misterbamboostraws.com/#"
+          >
           </mj-social-element>
-          <mj-social-element name="facebook" href="https://mjml.io/">
+          <mj-social-element
+            name="facebook"
+            href="https://misterbamboostraws.com/#"
+          >
           </mj-social-element>
-          <mj-social-element name="linkedin" href="https://mjml.io/">
+          <mj-social-element
+            name="linkedin"
+            href="https://misterbamboostraws.com/#"
+          >
           </mj-social-element>
-          <mj-social-element name="pinterest" href="https://mjml.io/">
+          <mj-social-element
+            name="pinterest"
+            href="https://misterbamboostraws.com/#"
+          >
           </mj-social-element>
         </mj-social>
       </mj-column>
