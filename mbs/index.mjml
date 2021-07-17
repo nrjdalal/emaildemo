@@ -934,7 +934,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <mj-section background-color="#171717">
       <mj-column>
         <mj-text
           color="#FFFFFF"
