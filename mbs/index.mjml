@@ -72,6 +72,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- why us -->
     <mj-section background-color="#171717">
       <mj-column padding="24px 0">
         <mj-text
