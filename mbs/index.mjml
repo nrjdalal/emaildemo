@@ -11,7 +11,7 @@
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/logo.png"
           alt=""
           width="64px"
           padding="0"
@@ -65,7 +65,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/hero.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/hero.png"
           alt=""
           padding="0"
         />
@@ -114,7 +114,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/re-usable.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/re-usable.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -149,7 +149,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/biodegradable.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/biodegradable.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -184,7 +184,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/sustainable.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/sustainable.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -219,7 +219,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/zero-waste.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/zero-waste.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -254,7 +254,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/100-natural.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/100-natural.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -289,7 +289,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/eco-friendly.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/eco-friendly.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -324,7 +324,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/handmade-with-love.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/handmade-with-love.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -441,7 +441,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/laser-branding.gif"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/laser-branding.gif"
           alt=""
           padding="0"
         />
@@ -575,7 +575,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/dimensions.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/dimensions.jpg"
           alt=""
           padding="0"
         />
@@ -616,7 +616,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/dimensions-alfa.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/dimensions-alfa.jpg"
           alt=""
           padding="0"
         />
@@ -670,7 +670,7 @@
     <mj-section padding="0" background-color="#171717">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/packaging.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/packaging.png"
           alt=""
           padding="0"
         />
@@ -708,7 +708,7 @@
     <mj-section padding="0" background-color="#171717">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/packaging-alfa.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/packaging-alfa.png"
           alt=""
           padding="0"
         />
@@ -797,7 +797,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/ketel1.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/ketel1.jpg"
           alt=""
           width="300px"
         />
@@ -834,7 +834,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/bandidos.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/bandidos.jpg"
           alt=""
           width="300px"
         />
@@ -871,7 +871,7 @@
     <mj-section padding="0 0 36px 0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/bombay-sapphire.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/bombay-sapphire.jpg"
           alt=""
           width="300px"
         />
@@ -924,7 +924,7 @@
     <mj-section background-color="#FFFFFF" padding="0" padding-top="24px">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/logo.png"
           alt=""
           width="64px"
           padding="0"
