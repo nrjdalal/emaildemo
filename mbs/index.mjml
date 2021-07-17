@@ -149,7 +149,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coconut-800x450-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/biodegradable.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -184,7 +184,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-pouch-800x450-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/sustainable.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -219,7 +219,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8554-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/zero-waste.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -254,7 +254,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8465-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/100-natural.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -289,7 +289,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8489-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/eco-friendly.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -324,7 +324,7 @@
     <mj-section background-color="#171717" padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/DSC8521-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/handmade-with-love.jpg"
           alt=""
           fluid-on-mobile="true"
         />
@@ -358,7 +358,10 @@
 
     <mj-section background-color="#171717" padding="24px 0">
       <mj-column>
-        <mj-button background-color="#171717" border="2px solid #FFFFFF"
+        <mj-button
+          href="https://misterbamboostraws.com"
+          background-color="#171717"
+          border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -374,7 +377,10 @@
         >
       </mj-column>
       <mj-column>
-        <mj-button background-color="#171717" border="2px solid #FFFFFF"
+        <mj-button
+          href="https://misterbamboostraws.com"
+          background-color="#171717"
+          border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -435,7 +441,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coca-Cola-animation3-2.gif"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/laser-branding.gif"
           alt=""
           padding="0"
         />
@@ -490,6 +496,7 @@
     <mj-section background-color="#FFFFFF" padding="0 0 24px 0">
       <mj-column>
         <mj-button
+          href="https://misterbamboostraws.com"
           background-color="#FFFFFF"
           border="2px solid #171717"
           color="#171717"
@@ -508,6 +515,7 @@
       </mj-column>
       <mj-column>
         <mj-button
+          href="https://misterbamboostraws.com"
           background-color="#FFFFFF"
           border="2px solid #171717"
           color="#171717"
@@ -567,7 +575,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straw-sizes-1920x1080-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/dimensions.jpg"
           alt=""
           padding="0"
         />
@@ -608,7 +616,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Straws-diameter-1920x672-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/dimensions-alfa.jpg"
           alt=""
           padding="0"
         />
@@ -662,7 +670,7 @@
     <mj-section padding="0" background-color="#171717">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Verpakkingen-1920x1080-min.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/packaging.png"
           alt=""
           padding="0"
         />
@@ -700,7 +708,7 @@
     <mj-section padding="0" background-color="#171717">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Merken-verpakkingen-1920x1080-min.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/packaging-alfa.png"
           alt=""
           padding="0"
         />
@@ -789,7 +797,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Ketel1-800x800-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/ketel1.jpg"
           alt=""
           width="300px"
         />
@@ -826,7 +834,7 @@
     <mj-section padding="0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bandido-800x800-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/bandidos.jpg"
           alt=""
           width="300px"
         />
@@ -863,7 +871,7 @@
     <mj-section padding="0 0 36px 0" background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/06/Bombay-Sapphire-Limited-Edition-English-Estate-min.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/bombay-sapphire.jpg"
           alt=""
           width="300px"
         />
@@ -904,7 +912,11 @@
           font-size="14px"
           font-weight="400"
         >
-          info@misterbamboostraws.com
+          <a
+            href="mailto:info@misterbamboostraws.com"
+            style="text-decoration: none; color: #ffffff"
+            >info@misterbamboostraws.com</a
+          >
         </mj-text>
       </mj-column>
     </mj-section>
@@ -912,7 +924,7 @@
     <mj-section background-color="#FFFFFF" padding="0" padding-top="24px">
       <mj-column>
         <mj-image
-          src="https://misterbamboostraws.com/wp-content/uploads/2021/07/Header-logo-144x144-min.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemoz/master/mbs/assets/logo.png"
           alt=""
           width="64px"
           padding="0"
@@ -925,22 +937,22 @@
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
             name="instagram"
-            href="https://misterbamboostraws.com/#"
+            href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
             name="facebook"
-            href="https://misterbamboostraws.com/#"
+            href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
             name="linkedin"
-            href="https://misterbamboostraws.com/#"
+            href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
             name="pinterest"
-            href="https://misterbamboostraws.com/#"
+            href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
         </mj-social>
