@@ -7,9 +7,10 @@
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#FFFFFF" padding-top="24px">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-image
+          href="https://misterbamboostraws.com"
           src="https://misterbamboostraws.com/wp-content/uploads/2021/07/Header-logo-144x144-min.png"
           alt=""
           width="64px"
