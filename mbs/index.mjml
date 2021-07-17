@@ -7,33 +7,57 @@
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#171717" padding="0">
+    <mj-section background-color="#FFFFFF" padding-top="24px">
       <mj-column>
-        <mj-navbar
-          base-url="https://misterbamboostraws.com"
-          hamburger="hamburger"
-          ico-color="#FFFFFF"
-          ico-font-size="20px"
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/07/Header-logo-144x144-min.png"
+          alt=""
+          width="64px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
         >
-          <mj-navbar-link href="/#whybamboo" color="#FFFFFF" font-size="10px"
-            >WHY US</mj-navbar-link
+          <a
+            href="https://misterbamboostraws.com/#whybamboo"
+            style="text-decoration: none; color: #ffffff"
+            >Why Us?</a
           >
-          <mj-navbar-link
-            href="/#laserbranding"
-            color="#FFFFFF"
-            font-size="10px"
-            >BRANDING</mj-navbar-link
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#laserbranding"
+            style="text-decoration: none; color: #ffffff"
+            >Branding</a
           >
-          <mj-navbar-link href="/#packaging" color="#FFFFFF" font-size="10px"
-            >PACKGING</mj-navbar-link
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#packaging"
+            style="text-decoration: none; color: #ffffff"
+            >Packaging</a
           >
-          <mj-navbar-link href="/#shop" color="#FFFFFF" font-size="10px"
-            >SHOP</mj-navbar-link
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#shop"
+            style="text-decoration: none; color: #ffffff"
+            >Shop</a
           >
-          <mj-navbar-link href="/#contact" color="#FFFFFF" font-size="10px"
-            >CONTACT</mj-navbar-link
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#contact"
+            style="text-decoration: none; color: #ffffff"
+            >Contact</a
           >
-        </mj-navbar>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -841,6 +865,114 @@
           alt=""
           width="300px"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- contact -->
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          CONTACT
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          MISTER BAMBOOM STRAWS
+          <br />
+          MUI NE, PHAN THIET VIETNAM
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          info@misterbamboostraws.com
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0" padding-top="24px">
+      <mj-column>
+        <mj-image
+          src="https://misterbamboostraws.com/wp-content/uploads/2021/07/Header-logo-144x144-min.png"
+          alt=""
+          width="64px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0" padding-bottom="24px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="instagram" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="linkedin" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="12px"
+          font-weight="400"
+        >
+          <a
+            href="https://misterbamboostraws.com/#whybamboo"
+            style="text-decoration: none; color: #ffffff"
+            >Why Us?</a
+          >
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#laserbranding"
+            style="text-decoration: none; color: #ffffff"
+            >Branding</a
+          >
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#packaging"
+            style="text-decoration: none; color: #ffffff"
+            >Packaging</a
+          >
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#shop"
+            style="text-decoration: none; color: #ffffff"
+            >Shop</a
+          >
+          &nbsp;
+          <a
+            href="https://misterbamboostraws.com/#contact"
+            style="text-decoration: none; color: #ffffff"
+            >Contact</a
+          >
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
