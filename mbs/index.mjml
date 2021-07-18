@@ -19,7 +19,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#171717">
+    <!-- <mj-section background-color="#171717">
       <mj-column>
         <mj-text
           color="#FFFFFF"
@@ -60,7 +60,7 @@
           >
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <mj-section padding="0">
       <mj-column>
@@ -372,7 +372,7 @@
             text-transform="uppercase"
             padding-bottom="0"
           >
-            DRINK COMPANIES
+            DRINKS COMPANIES
           </mj-text></mj-button
         >
       </mj-column>
@@ -438,7 +438,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0" background-color="#FFFFFF">
+    <mj-section
+      padding="0"
+      background-url="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coca-cola-missing-glass-1920x759-min.jpg"
+      background-size="cover"
+    >
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/laser-branding.gif"
@@ -555,7 +559,7 @@
           font-weight="500"
           text-transform="uppercase"
         >
-          Size Is Up
+          Size Us Up
         </mj-text>
         <mj-text
           color="#FFFFFF"
