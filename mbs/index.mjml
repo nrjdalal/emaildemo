@@ -1,8 +1,8 @@
 <mjml>
   <mj-head>
     <mj-font
-      name="AceSans"
-      href="https://github.com/nrjdalal/emaildemo/blob/master/mbs/fonts/AceSansRegular.woff?raw=true"
+      name="Josefin Sans"
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600&display=swap"
     />
   </mj-head>
 
@@ -25,7 +25,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -79,7 +79,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
@@ -89,7 +89,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -100,7 +100,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -124,7 +124,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -136,7 +136,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -159,7 +159,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -171,7 +171,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -194,7 +194,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -206,7 +206,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -229,7 +229,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -241,7 +241,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -264,7 +264,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -276,7 +276,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -299,7 +299,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -311,7 +311,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -334,7 +334,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="20px"
           font-weight="500"
           text-transform="uppercase"
@@ -346,7 +346,7 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -366,7 +366,7 @@
             color="#FFFFFF"
             align="left"
             line-height="1.4"
-            font-family="'AceSans', sans-serif;"
+            font-family="'Josefin Sans', sans-serif;"
             font-size="20px"
             font-weight="500"
             text-transform="uppercase"
@@ -385,7 +385,7 @@
             color="#FFFFFF"
             align="left"
             line-height="1.4"
-            font-family="'AceSans', sans-serif;"
+            font-family="'Josefin Sans', sans-serif;"
             font-size="20px"
             font-weight="500"
             text-transform="uppercase"
@@ -404,7 +404,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
@@ -414,7 +414,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -425,7 +425,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -458,7 +458,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -474,7 +474,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -486,7 +486,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -497,17 +497,65 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="0 0 24px 0">
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/many-straws.jpeg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding="24px 0">
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="30px"
+          font-weight="600"
+        >
+          DIMENSIONS
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="16px"
+          font-weight="500"
+          text-transform="uppercase"
+        >
+          Size Us Up
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="'Josefin Sans', sans-serif;"
+          font-size="14px"
+          font-weight="400"
+        >
+          The standard length of our bamboo straws is 20cm or 12,5cm. But you
+          can also request other lengths and we will happily deliver a
+          customized product that meets your exact specifications.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding="0 0 24px 0">
       <mj-column>
         <mj-button
           href="https://misterbamboostraws.com"
-          background-color="#FFFFFF"
-          border="2px solid #171717"
-          color="#171717"
+          background-color="#171717"
+          border="2px solid #ffffff"
+          color="#ffffff"
           ><mj-text
             align="left"
             line-height="1.4"
-            font-family="'AceSans', sans-serif;"
+            font-family="'Josefin Sans', sans-serif;"
             font-size="20px"
             font-weight="500"
             text-transform="uppercase"
@@ -520,13 +568,13 @@
       <mj-column>
         <mj-button
           href="https://misterbamboostraws.com"
-          background-color="#FFFFFF"
-          border="2px solid #171717"
-          color="#171717"
+          background-color="#171717"
+          border="2px solid #ffffff"
+          color="#ffffff"
           ><mj-text
             align="left"
             line-height="1.4"
-            font-family="'AceSans', sans-serif;"
+            font-family="'Josefin Sans', sans-serif;"
             font-size="20px"
             font-weight="500"
             text-transform="uppercase"
@@ -535,44 +583,6 @@
             PREMIUM GIVE-AWAYS
           </mj-text></mj-button
         >
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#171717">
-      <mj-column padding="24px 0">
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-family="'AceSans', sans-serif;"
-          font-size="30px"
-          font-weight="600"
-        >
-          DIMENSIONS
-        </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-family="'AceSans', sans-serif;"
-          font-size="16px"
-          font-weight="500"
-          text-transform="uppercase"
-        >
-          Size Us Up
-        </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-family="'AceSans', sans-serif;"
-          font-size="14px"
-          font-weight="400"
-        >
-          The standard length of our bamboo straws is 20cm or 12,5cm. But you
-          can also request other lengths and we will happily deliver a
-          customized product that meets your exact specifications.
-        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -592,7 +602,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -603,7 +613,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -634,7 +644,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
@@ -644,7 +654,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -655,7 +665,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -687,7 +697,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -698,7 +708,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -726,7 +736,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
@@ -736,7 +746,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -747,7 +757,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -790,17 +800,17 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
-          NEWS
+          NEWS! NEWS! NEWS!
         </mj-text>
         <mj-text
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -811,7 +821,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -837,7 +847,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -848,7 +858,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -874,7 +884,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
@@ -885,7 +895,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -912,7 +922,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="30px"
           font-weight="600"
         >
@@ -922,12 +932,12 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="16px"
           font-weight="500"
           text-transform="uppercase"
         >
-          MISTER BAMBOOM STRAWS
+          MISTER BAMBOO STRAWS
           <br />
           MUI NE, PHAN THIET VIETNAM
         </mj-text>
@@ -935,7 +945,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="14px"
           font-weight="400"
         >
@@ -987,13 +997,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#171717">
+    <!-- <mj-section background-color="#171717">
       <mj-column>
         <mj-text
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="'AceSans', sans-serif;"
+          font-family="'Josefin Sans', sans-serif;"
           font-size="12px"
           font-weight="400"
         >
@@ -1028,6 +1038,6 @@
           >
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
   </mj-body>
 </mjml>
