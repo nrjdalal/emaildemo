@@ -752,8 +752,8 @@
           font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
-          <span style="font-size: 33px">NEWS! </span> NEWS!
-          <span style="font-size: 33px"> NEWS!</span>
+          NEWS!<span style="font-family: AceSans"> NEWS! </span>
+          NEWS!
         </mj-text>
         <mj-text
           color="#171717"
