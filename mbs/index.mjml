@@ -715,7 +715,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/tuv.svg"
           alt=""
-          height="48px"
+          height="52px"
         />
       </mj-column>
       <mj-column>
@@ -900,21 +900,25 @@
       <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
+            background-color="#171717"
             name="instagram"
             href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
+            background-color="#171717"
             name="facebook"
             href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
+            background-color="#171717"
             name="linkedin"
             href="https://misterbamboostraws.com/"
           >
           </mj-social-element>
           <mj-social-element
+            background-color="#171717"
             name="pinterest"
             href="https://misterbamboostraws.com/"
           >
