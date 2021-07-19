@@ -1,71 +1,26 @@
 <mjml>
   <mj-head>
-    <mj-font
-      name="Josefin Sans"
-      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600&display=swap"
-    />
     <mj-style>
       @font-face { font-family: AceSans; src:
       url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansRegular.woff')
+      format('woff'); } @font-face { font-family: AceSansBold; src:
+      url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansBold.woff')
       format('woff'); }
     </mj-style>
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#FFFFFF">
+    <mj-section background-color="#171717">
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.svg"
           alt=""
-          width="64px"
+          width="300px"
           padding="0"
         />
       </mj-column>
     </mj-section>
-
-    <!-- <mj-section background-color="#171717">
-      <mj-column>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
-          font-size="12px"
-          font-weight="400"
-        >
-          <a
-            href="https://misterbamboostraws.com/#whybamboo"
-            style="text-decoration: none; color: #ffffff"
-            >Why Us?</a
-          >
-          &nbsp;
-          <a
-            href="https://misterbamboostraws.com/#laserbranding"
-            style="text-decoration: none; color: #ffffff"
-            >Branding</a
-          >
-          &nbsp;
-          <a
-            href="https://misterbamboostraws.com/#packaging"
-            style="text-decoration: none; color: #ffffff"
-            >Packaging</a
-          >
-          &nbsp;
-          <a
-            href="https://misterbamboostraws.com/#shop"
-            style="text-decoration: none; color: #ffffff"
-            >Shop</a
-          >
-          &nbsp;
-          <a
-            href="https://misterbamboostraws.com/#contact"
-            style="text-decoration: none; color: #ffffff"
-            >Contact</a
-          >
-        </mj-text>
-      </mj-column>
-    </mj-section> -->
 
     <mj-section padding="0">
       <mj-column>
@@ -84,9 +39,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           WHY BAMBOO?
         </mj-text>
@@ -94,9 +48,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           The Brilliant Solution To Sustainability
@@ -105,9 +58,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
           font-size="14px"
-          font-weight="400"
+          font-weight="100"
         >
           As a natural resource, bamboo offers a myriad of advantages that make
           it the best solution to reducing waste and creating sustainable
@@ -129,9 +81,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -141,9 +92,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
           Bamboo extends the life of each straw by 100 times! Save money and
           reduce waste one straw at a time.
@@ -164,9 +114,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -176,12 +125,13 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          When you eventually get rid of your bamboo straws, you don’t have to
+          worry about whether it will contribute to pollution because, as a
+          natural product, it will decay on its own without harming the
+          environment.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -199,9 +149,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -211,12 +160,14 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          In making products that are 100% natural, recyclable, biodegradable,
+          and re- usable, we are serving the future by creating a sustainable
+          way of life. A sustainable approach means you reduce waste and
+          effectively manage natural resources for today’s and tomorrow’s
+          generations. We even use sustainable product packaging.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -234,9 +185,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -246,12 +196,14 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          Waste is a thing of the past with our premium re-usable bamboo
+          drinking straws. This is the first step towards creating resource life
+          cycles where all products can be re-used. At Mr. Bamboo Straws, our
+          mission is to stop sending trash to the ocean, incinerators, or
+          landfills.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -269,9 +221,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -281,12 +232,12 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          We really mean it. There are no chemicals or pesticides used at any
+          stage of the process – during growth, harvest, or production.
+          Completely natural and entirely harmless to the environment.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -304,9 +255,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -316,12 +266,13 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          Bamboo straws can’t damage the environment because whether you have
+          them recycled or simply throw them away, they don’t contain harmful
+          chemicals or pesticides. This means they will either naturally decay,
+          or you can have them recycled to create new straws.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -339,9 +290,8 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="20px"
-          font-weight="500"
           text-transform="uppercase"
           padding-bottom="0"
         >
@@ -351,12 +301,14 @@
           color="#FFFFFF"
           align="left"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-weight="100"
           font-size="12px"
-          font-weight="400"
         >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+          Each straw is harvested from government-controlled national parks in
+          Vietnam. This ensures that only the excess bamboo is used for straws,
+          and the factory where they are manufactured makes sure not to use any
+          chemicals during the process. We can also brand your straws using the
+          best quality laser-marking.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -371,9 +323,8 @@
             color="#FFFFFF"
             align="left"
             line-height="1.4"
-            font-family="AceSans, 'Josefin Sans', sans-serif;"
+            font-family="AceSans, sans-serif;"
             font-size="20px"
-            font-weight="500"
             text-transform="uppercase"
             padding-bottom="0"
           >
@@ -390,9 +341,8 @@
             color="#FFFFFF"
             align="left"
             line-height="1.4"
-            font-family="AceSans, 'Josefin Sans', sans-serif;"
+            font-family="AceSans, sans-serif;"
             font-size="20px"
-            font-weight="500"
             text-transform="uppercase"
             padding-bottom="0"
           >
@@ -409,9 +359,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           LASER BRANDING
         </mj-text>
@@ -419,9 +368,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           STYLE YOUR STRAWS
@@ -430,9 +378,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           You can personalize and individualize your straws with laser-marking,
           laser-branding, or laser-engraving – all of which mean the same thing.
@@ -463,9 +410,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           With the best equipment, we can create the best quality laser-marking!
           This is sure to be an impactful conversation starter as we can even
@@ -479,9 +425,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           Set your brand apart as one that actively drives sustainability, and
           show them that you don’t just... Talk the talk... You walk the walk!
@@ -491,9 +436,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           Mister Bamboo Straws is already working with the biggest brands in
           liquor and soft drinks, so join this international movement of
@@ -518,9 +462,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           DIMENSIONS
         </mj-text>
@@ -528,9 +471,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Size Us Up
@@ -539,9 +481,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           The standard length of our bamboo straws is 20cm or 12,5cm. But you
           can also request other lengths and we will happily deliver a
@@ -560,9 +501,8 @@
           ><mj-text
             align="left"
             line-height="1.4"
-            font-family="AceSans, 'Josefin Sans', sans-serif;"
+            font-family="AceSans, sans-serif;"
             font-size="20px"
-            font-weight="500"
             text-transform="uppercase"
             padding-bottom="0"
           >
@@ -579,9 +519,8 @@
           ><mj-text
             align="left"
             line-height="1.4"
-            font-family="AceSans, 'Josefin Sans', sans-serif;"
+            font-family="AceSans, sans-serif;"
             font-size="20px"
-            font-weight="500"
             text-transform="uppercase"
             padding-bottom="0"
           >
@@ -607,9 +546,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Get Bamboo Straws in these dimensions
@@ -618,9 +556,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           For normal high-ball glasses, you will need the 20cm straws, and for
           low-ball or whiskey glasses and cocktail glasses, you will need 12,5cm
@@ -649,9 +586,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           PACKAGING
         </mj-text>
@@ -659,9 +595,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Choose Standard Or Personalized Packaging
@@ -670,9 +605,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           For our standard packaging, your bamboo straws are 20cm or 12,5cm long
           which varies slightly based on the bamboo thickness. We separate the
@@ -702,9 +636,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Personalized Packaging
@@ -713,9 +646,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           We are also happy to create unique packaging that captures your
           specific brand and style. Simply send us the logo and preferred text,
@@ -741,9 +673,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           CERTIFICATION
         </mj-text>
@@ -751,9 +682,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Certified For Safe Use
@@ -762,9 +692,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           Rest assured, we have all the requisite certifications for complete
           compliance with the European and American regulations for food contact
@@ -805,9 +734,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           NEWS! NEWS! NEWS!
         </mj-text>
@@ -815,9 +743,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Global Partner
@@ -826,9 +753,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           For the new category of Hard Seltzers, direct from Ketel1. Summer is
           coming!
@@ -852,9 +778,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Bandidos
@@ -863,9 +788,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           Surprise your guests with Premium Bamboo Drinking Straws. Show your
           guests that your bar or restaurant is more and more sustainable.
@@ -889,9 +813,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           Bombay Sapphire
@@ -900,9 +823,8 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           Specially laser-branded Bamboo Drinking Straws for the limited edition
           gins from Bombay Sapphire.
@@ -927,9 +849,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="30px"
-          font-weight="600"
         >
           CONTACT
         </mj-text>
@@ -937,9 +858,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="16px"
-          font-weight="500"
           text-transform="uppercase"
         >
           MISTER BAMBOO STRAWS
@@ -950,9 +870,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="14px"
-          font-weight="400"
         >
           <a
             href="mailto:info@misterbamboostraws.com"
@@ -963,19 +882,19 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="0" padding-top="24px">
+    <mj-section background-color="#171717" padding="0" padding-top="24px">
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.svg"
           alt=""
-          width="64px"
+          width="300px"
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="0" padding-bottom="24px">
+    <mj-section background-color="#171717" padding="0" padding-bottom="24px">
       <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
@@ -1008,9 +927,8 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, 'Josefin Sans', sans-serif;"
+          font-family="AceSans, sans-serif;"
           font-size="12px"
-          font-weight="400"
         >
           <a
             href="https://misterbamboostraws.com/#whybamboo"
