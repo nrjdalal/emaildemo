@@ -378,7 +378,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           You can personalize and individualize your straws with laser-marking,
@@ -410,7 +410,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           With the best equipment, we can create the best quality laser-marking!
@@ -425,7 +425,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           Set your brand apart as one that actively drives sustainability, and
@@ -436,7 +436,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           Mister Bamboo Straws is already working with the biggest brands in
@@ -462,7 +462,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
           DIMENSIONS
@@ -481,7 +481,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           The standard length of our bamboo straws is 20cm or 12,5cm. But you
@@ -556,7 +556,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           For normal high-ball glasses, you will need the 20cm straws, and for
@@ -586,7 +586,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
           PACKAGING
@@ -605,7 +605,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           For our standard packaging, your bamboo straws are 20cm or 12,5cm long
@@ -646,7 +646,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           We are also happy to create unique packaging that captures your
@@ -673,7 +673,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
           CERTIFICATION
@@ -692,7 +692,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           Rest assured, we have all the requisite certifications for complete
@@ -734,7 +734,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
           NEWS! NEWS! NEWS!
@@ -753,7 +753,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           For the new category of Hard Seltzers, direct from Ketel1. Summer is
@@ -788,7 +788,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           Surprise your guests with Premium Bamboo Drinking Straws. Show your
@@ -823,7 +823,7 @@
           color="#171717"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-weight="100"
           font-size="14px"
         >
           Specially laser-branded Bamboo Drinking Straws for the limited edition
@@ -849,7 +849,7 @@
           color="#FFFFFF"
           align="center"
           line-height="1.4"
-          font-family="AceSans, sans-serif;"
+          font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
           CONTACT
@@ -864,7 +864,9 @@
         >
           MISTER BAMBOO STRAWS
           <br />
-          MUI NE, PHAN THIET VIETNAM
+          MUI NE, PHAN THIET
+          <br />
+          VIETNAM
         </mj-text>
         <mj-text
           color="#FFFFFF"
