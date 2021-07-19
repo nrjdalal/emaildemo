@@ -704,7 +704,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#DDDDDD">
+    <mj-section background-color="#171717">
       <mj-column>
         <mj-image
           src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.svg"
@@ -713,14 +713,14 @@
         /> </mj-column
       ><mj-column>
         <mj-image
-          src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Food_and_Drug_Administration_logo.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/tuv.svg"
           alt=""
           height="48px"
         />
       </mj-column>
       <mj-column>
         <mj-image
-          src="https://upload.wikimedia.org/wikipedia/commons/3/36/TUEV-Rheinland-Logo1.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/fda.svg"
           alt=""
           height="48px"
         />
