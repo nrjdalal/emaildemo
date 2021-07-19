@@ -511,7 +511,7 @@
             text-transform="uppercase"
             padding-bottom="0"
           >
-            HOTEL RESORTS
+            HOTELS RESORTS
           </mj-text></mj-button
         >
       </mj-column>
@@ -605,6 +605,16 @@
           text-transform="uppercase"
         >
           Choose Standard Or Personalized Packaging
+        </mj-text>
+        <mj-text
+          color="#FFFFFF"
+          align="center"
+          line-height="1.4"
+          font-family="AceSans, sans-serif;"
+          font-size="16px"
+          text-transform="uppercase"
+        >
+          Standard Packaging
         </mj-text>
         <mj-text
           color="#FFFFFF"
@@ -742,7 +752,8 @@
           font-family="AceSansBold, sans-serif;"
           font-size="30px"
         >
-          NEWS! NEWS! NEWS!
+          <span style="font-size: 36px">NEWS! </span> NEWS!
+          <span style="font-size: 36px"> NEWS!</span>
         </mj-text>
         <mj-text
           color="#171717"
@@ -787,7 +798,7 @@
           font-size="16px"
           text-transform="uppercase"
         >
-          Bandidos
+          Bandido
         </mj-text>
         <mj-text
           color="#171717"
