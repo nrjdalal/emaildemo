@@ -93,7 +93,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           Bamboo extends the life of each straw by 100 times! Save money and
           reduce waste one straw at a time.
@@ -126,7 +126,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           When you eventually get rid of your bamboo straws, you don’t have to
           worry about whether it will contribute to pollution because, as a
@@ -161,7 +161,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           In making products that are 100% natural, recyclable, biodegradable,
           and re- usable, we are serving the future by creating a sustainable
@@ -197,7 +197,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           Waste is a thing of the past with our premium re-usable bamboo
           drinking straws. This is the first step towards creating resource life
@@ -233,7 +233,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           We really mean it. There are no chemicals or pesticides used at any
           stage of the process – during growth, harvest, or production.
@@ -267,7 +267,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           Bamboo straws can’t damage the environment because whether you have
           them recycled or simply throw them away, they don’t contain harmful
@@ -302,7 +302,7 @@
           align="left"
           line-height="1.4"
           font-weight="100"
-          font-size="12px"
+          font-size="10px"
         >
           Each straw is harvested from government-controlled national parks in
           Vietnam. This ensures that only the excess bamboo is used for straws,
@@ -391,15 +391,20 @@
     </mj-section>
 
     <mj-section
+      background-color="#FFFFFF"
       padding="0"
       background-url="https://misterbamboostraws.com/wp-content/uploads/2021/06/Coca-cola-missing-glass-1920x759-min.jpg"
-      background-size="cover"
+      background-size="100%"
+      background-repeat="no-repeat"
+      background-position-y="center"
     >
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/laser-branding.gif"
           alt=""
           padding="0"
+          width="320px"
+          fluid-on-mobile="true"
         />
       </mj-column>
     </mj-section>
