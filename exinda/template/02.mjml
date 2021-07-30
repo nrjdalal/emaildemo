@@ -52,7 +52,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="24px"
           font-weight="600"
           letter-spacing="1px"
@@ -63,7 +63,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="20px"
           font-weight="500"
           letter-spacing="1px"
@@ -75,7 +75,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -103,7 +103,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="20px"
           font-weight="500"
           letter-spacing="1px"
@@ -115,7 +115,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -127,7 +127,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -156,7 +156,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="20px"
           font-weight="500"
           letter-spacing="1px"
@@ -168,7 +168,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -180,7 +180,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -209,7 +209,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="20px"
           font-weight="500"
           letter-spacing="1px"
@@ -221,7 +221,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -233,7 +233,7 @@
         <mj-text
           align="center"
           color="#FFFFFF"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
@@ -249,7 +249,7 @@
       <mj-column padding-bottom="48px">
         <mj-button
           background-color="#F25F4A"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-weight="500"
           href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator/specifications#features"
           letter-spacing="1px"
@@ -258,7 +258,7 @@
         </mj-button>
         <mj-button
           background-color="#F25F4A"
-          font-family="Poppins"
+          font-family="Poppins, sans-serif"
           font-weight="500"
           href="mailto:sales@pactec.co?subject=Exinda Network Orchestrator"
           letter-spacing="1px"
