@@ -1,0 +1,317 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-title>See your network from a new perspective with Exinda</mj-title>
+  </mj-head>
+  <mj-body>
+    <!-- Logo Section -->
+    <mj-section background-color="#075985">
+      <mj-column>
+        <mj-image
+          alt="See your network from a new perspective with Exinda"
+          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/exinda-white-logo.png"
+          width="200px"
+        />
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+            style="color: #ffffff; text-decoration: none"
+          >
+            Network Orchestrator
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Opening Image -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/network.jpg"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Why Exinda -->
+    <mj-section background-color="#075985">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="24px"
+          font-weight="600"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          WHY EXINDA?
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Quality of service for your important network applications
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Manage network performance by focusing on the user experience of key
+          applications.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Why Us 01 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/01-dark.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          See your network from the user’s perspective
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Real-time network monitoring lets you understand how well your
+          organization’s important applications are performing
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Easy-to-use dashboards help you identify network use, traffic
+          bottlenecks and problem areas by looking at application or Level 7
+          performance by app, user, device, and location
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Why Us 02 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/02-dark.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#075985" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Control network traffic & applications
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Identify your most important applications as well as unsanctioned
+          applications that may be stealing your bandwidth
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Prioritize how and when specific users, applications, and web sites
+          can consume bandwidth on your network
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Why Us 03 -->
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/03-dark.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Improve application performance
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Ensure your key business applications—whether on-premise or in the
+          cloud—always deliver the experience users expect
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Use data acceleration and caching capabilities to guarantee business
+          applications always perform at their best
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding-bottom="48px">
+        <mj-button
+          background-color="#F25F4A"
+          font-family="Poppins"
+          font-weight="500"
+          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator/specifications#features"
+          letter-spacing="1px"
+        >
+          FIND OUT MORE
+        </mj-button>
+        <mj-button
+          background-color="#F25F4A"
+          font-family="Poppins"
+          font-weight="500"
+          href="mailto:sales@pactec.co?subject=Exinda Network Orchestrator"
+          letter-spacing="1px"
+        >
+          CONTACT US
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#171717">
+      <mj-column>
+        <mj-image
+          alt="exinda network orchestrator logo"
+          href="https://pactec.co"
+          padding-bottom="24px"
+          src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
+          width="200px"
+        />
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Copyright © 2021. All rights reserved.<br /><br />
+          <a
+            href="https://pactec.co"
+            style="color: #ffffff; text-decoration: none"
+          >
+            Packet Technologies
+          </a>
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="mailto:sales@pactec.co?subject=Unsubscribe"
+            style="color: #ffffff; text-decoration: none"
+          >
+            unsubscribe from all emails
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
