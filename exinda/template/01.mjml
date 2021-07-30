@@ -109,7 +109,7 @@
           line-height="1.4"
           text-transform="uppercase"
         >
-          Quality of service for your important network applications
+          See your network from the user’s perspective
         </mj-text>
         <mj-text
           align="center"
@@ -120,8 +120,21 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Manage network performance by focusing on the user experience of key
-          applications.
+          Real-time network monitoring lets you understand how well your
+          organization’s important applications are performing
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Easy-to-use dashboards help you identify network use, traffic
+          bottlenecks and problem areas by looking at application or Level 7
+          performance by app, user, device, and location
         </mj-text>
       </mj-column>
     </mj-section>
