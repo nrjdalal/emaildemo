@@ -87,7 +87,6 @@
     </mj-section>
 
     <!-- Why Us 01 -->
-    <!-- Opening Image -->
     <mj-section padding="0">
       <mj-column>
         <mj-image
@@ -95,6 +94,35 @@
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/01.png"
           alt=""
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Quality of service for your important network applications
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Manage network performance by focusing on the user experience of key
+          applications.
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -109,15 +137,73 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="#FFFFFF" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#171717"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Quality of service for your important network applications
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#171717"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Manage network performance by focusing on the user experience of key
+          applications.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- Why Us 03 -->
 
     <mj-section padding="0">
       <mj-column>
         <mj-image
           padding="0"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/03.png"
           alt=""
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#171717" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="20px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          text-transform="uppercase"
+        >
+          Quality of service for your important network applications
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Manage network performance by focusing on the user experience of key
+          applications.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
