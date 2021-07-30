@@ -162,7 +162,7 @@
           line-height="1.4"
           text-transform="uppercase"
         >
-          Quality of service for your important network applications
+          Control network traffic & applications
         </mj-text>
         <mj-text
           align="center"
@@ -173,8 +173,20 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Manage network performance by focusing on the user experience of key
-          applications.
+          Identify your most important applications as well as unsanctioned
+          applications that may be stealing your bandwidth
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#171717"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Prioritize how and when specific users, applications, and web sites
+          can consume bandwidth on your network
         </mj-text>
       </mj-column>
     </mj-section>
