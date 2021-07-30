@@ -252,8 +252,59 @@
           font-weight="500"
           href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
           letter-spacing="1px"
-          >FIND OUT MORE</mj-button
         >
+          FIND OUT MORE
+        </mj-button>
+        <mj-button
+          background-color="#F25F4A"
+          font-family="Poppins"
+          font-weight="500"
+          href="mailto:sales@pactec.co?subject=Exinda Network Orchestrator"
+          letter-spacing="1px"
+        >
+          CONTACT US
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <!-- Logo Section -->
+    <mj-section background-color="#171717">
+      <mj-column>
+        <mj-image
+          alt="exinda network orchestrator logo"
+          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          padding-bottom="24px"
+          src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
+          width="200px"
+        />
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Copyright © 2021. All rights reserved.<br /><br />Packet Technologies
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="mailto:sales@pactec.co?subject=Unsubscribe"
+            style="color: #ffffff; text-decoration: none"
+          >
+            unsubscribe from all emails
+          </a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
