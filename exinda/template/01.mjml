@@ -243,5 +243,18 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#171717">
+      <mj-column padding-bottom="48px">
+        <mj-button
+          background-color="#F25F4A"
+          font-family="Poppins"
+          font-weight="500"
+          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          letter-spacing="1px"
+          >FIND OUT MORE</mj-button
+        >
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
