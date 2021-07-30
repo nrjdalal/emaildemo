@@ -273,7 +273,7 @@
       <mj-column>
         <mj-image
           alt="exinda network orchestrator logo"
-          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          href="https://pactec.co"
           padding-bottom="24px"
           src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
           width="200px"
@@ -287,7 +287,13 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Copyright © 2021. All rights reserved.<br /><br />Packet Technologies
+          Copyright © 2021. All rights reserved.<br /><br />
+          <a
+            href="https://pactec.co"
+            style="color: #ffffff; text-decoration: none"
+          >
+            Packet Technologies
+          </a>
         </mj-text>
         <mj-text
           align="center"
