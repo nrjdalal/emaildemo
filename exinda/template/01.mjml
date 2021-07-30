@@ -85,5 +85,17 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <!-- Why Us 01 -->
+    <!-- Opening Image -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/01.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
