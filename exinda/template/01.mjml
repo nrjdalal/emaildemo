@@ -57,7 +57,7 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Why Exinda?
+          WHY EXINDA?
         </mj-text>
         <mj-text
           align="center"
@@ -67,6 +67,7 @@
           font-weight="500"
           letter-spacing="1px"
           line-height="1.4"
+          text-transform="uppercase"
         >
           Quality of service for your important network applications
         </mj-text>
