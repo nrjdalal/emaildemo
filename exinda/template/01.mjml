@@ -1,10 +1,34 @@
 <mjml>
-  <mj-head></mj-head>
+  <mj-head>
+    <mj-font name="Poppins" href="ttps://fonts.googleapis.com/family=Poppins" />
+  </mj-head>
   <mj-body>
-    <mj-section background-color="#171717">
+    <!-- Logo Section -->
+    <mj-section background-color="#FFFFFF">
       <mj-column>
-        <mj-image src="" alt="" />
+        <mj-image
+          alt="exinda network orchestrator logo"
+          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/exinda/assets/exinda-logo.png"
+          width="240px"
+        />
+        <mj-text
+          align="center"
+          font-family="'Poppins', sans-serif"
+          font-size="28px"
+          font-weight="700"
+          letter-spacing="1px"
+        >
+          <a
+            href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+            style="color: #171717; text-decoration: none"
+          >
+            Network Orchestrator
+          </a>
+        </mj-text>
       </mj-column>
     </mj-section>
+
+    <!-- Opening Image -->
   </mj-body>
 </mjml>
