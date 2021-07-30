@@ -215,7 +215,7 @@
           line-height="1.4"
           text-transform="uppercase"
         >
-          Quality of service for your important network applications
+          Improve application performance
         </mj-text>
         <mj-text
           align="center"
@@ -226,8 +226,20 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Manage network performance by focusing on the user experience of key
-          applications.
+          Ensure your key business applications—whether on-premise or in the
+          cloud—always deliver the experience users expect
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Use data acceleration and caching capabilities to guarantee business
+          applications always perform at their best
         </mj-text>
       </mj-column>
     </mj-section>
