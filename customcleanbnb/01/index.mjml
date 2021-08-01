@@ -12,7 +12,7 @@
       <mj-column>
         <mj-image
           alt="A Deeply Satisfying Clean Your Business Deserves"
-          href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+          href="https://customcleanbnb.com"
           padding-bottom="0"
           src="https://static.wixstatic.com/media/257f46_7ff8941a35b14b16a60a0b4bc72dc778~mv2.png/v1/fill/w_568,h_320,al_c,q_85,usm_0.66_1.00_0.01/business%20logo_edited_edited_edited.webp"
           width="200px"
@@ -28,7 +28,7 @@
           padding-top="0"
         >
           <a
-            href="https://www.gfi.com/products-and-solutions/network-security-solutions/exinda-network-orchestrator"
+            href="https://customcleanbnb.com"
             style="color: #ffffff; text-decoration: none"
           >
             A Deeply Satisfying Clean Your Business Deserves
@@ -42,7 +42,7 @@
       <mj-column>
         <mj-image
           padding="0"
-          src="https://images.unsplash.com/photo-1563453392212-326f5e854473?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/customcleanbnb/assets/cleaning.jpg"
           alt=""
         />
       </mj-column>
@@ -71,7 +71,13 @@
           line-height="1.4"
         >
           Your place of business deserves a deeply satisfying clean only
-          CustomCleanBnB can give.
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; font-weight: 600; text-decoration: none"
+          >
+            CustomCleanBnB
+          </a>
+          can give.
         </mj-text>
 
         <mj-text
@@ -95,7 +101,12 @@
           line-height="1.4"
         >
           Give your clients and employees the comfort and safety of a
-          CDC-standard clean.
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; font-weight: 600; text-decoration: none"
+          >
+            CDC-standard clean</span
+          >.
         </mj-text>
 
         <mj-text
@@ -106,10 +117,15 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Enjoy peace of mind knowing that thorough cleaning can be affordable
-          and less stressful to supervise with our customer-focused methods and
-          mandatory safety employee training every quarter. We are available
-          24/7.
+          Enjoy peace of mind knowing that
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; font-weight: 600; text-decoration: none"
+          >
+            thorough cleaning can be affordable and less stressful to supervise
+          </span>
+          with our customer-focused methods and mandatory safety employee
+          training every quarter. We are available 24/7.
         </mj-text>
 
         <mj-text
@@ -120,8 +136,13 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Try us to see if we fit with our janitorial and commercial cleaning
-          with no contract for three months.
+          Try us to see if we fit with our janitorial and commercial cleaning .
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; font-weight: 600; text-decoration: none"
+          >
+            with no contract for three months</span
+          >.
         </mj-text>
 
         <mj-text
@@ -132,7 +153,13 @@
           letter-spacing="1px"
           line-height="1.4"
         >
-          Call us here now to learn more and get a quote.
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; font-weight: 600; text-decoration: none"
+          >
+            Call us here now
+          </a>
+          to learn more and get a quote.
         </mj-text>
 
         <mj-text
