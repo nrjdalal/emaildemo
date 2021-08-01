@@ -4,7 +4,7 @@
       name="Poppins"
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
-    <mj-title>See your network from a new perspective with Exinda</mj-title>
+    <mj-title>A Deeply Satisfying Clean Your Business Deserves</mj-title>
   </mj-head>
   <mj-body>
     <!-- Logo Section -->
@@ -31,7 +31,7 @@
             href="https://customcleanbnb.com"
             style="color: #ffffff; text-decoration: none"
           >
-            A Deeply Satisfying Clean Your Business Deserves
+            A Deeply Satisfying Clean<br />Your Business Deserves
           </a>
         </mj-text>
       </mj-column>
