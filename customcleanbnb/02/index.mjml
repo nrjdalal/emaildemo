@@ -1,0 +1,244 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+    <mj-title>A Deeply Satisfying Clean Your Business Deserves</mj-title>
+  </mj-head>
+  <mj-body>
+    <!-- Logo Section -->
+    <mj-section background-color="#27272A">
+      <mj-column>
+        <mj-image
+          alt="A Deeply Satisfying Clean Your Business Deserves"
+          href="https://customcleanbnb.com"
+          padding-bottom="0"
+          src="https://static.wixstatic.com/media/257f46_7ff8941a35b14b16a60a0b4bc72dc778~mv2.png/v1/fill/w_568,h_320,al_c,q_85,usm_0.66_1.00_0.01/business%20logo_edited_edited_edited.webp"
+          width="200px"
+        />
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="16px"
+          font-weight="600"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; text-decoration: none"
+          >
+            A Deeply Satisfying Clean<br />Your Business Deserves
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Opening Image -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/customcleanbnb/assets/cleaning.jpg"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Message -->
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Hello (Name),
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Your place of business deserves a deeply satisfying clean only
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #27272a; font-weight: 600; text-decoration: none"
+          >
+            CustomCleanBnB
+          </a>
+          can give.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          We are a small cleaning business offering your office and business
+          place what larger cleaning companies can’t.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Give your clients and employees the comfort and safety of a
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #27272a; font-weight: 600; text-decoration: none"
+          >
+            CDC-standard clean</span
+          >.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Enjoy peace of mind knowing that
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #27272a; font-weight: 600; text-decoration: none"
+          >
+            thorough cleaning can be affordable and less stressful to supervise
+          </span>
+          with our customer-focused methods and mandatory safety employee
+          training every quarter. We are available 24/7.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Try us to see if we fit with our janitorial and commercial cleaning
+          <span
+            href="https://customcleanbnb.com"
+            style="color: #27272a; font-weight: 600; text-decoration: none"
+          >
+            with no contract for three months</span
+          >.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="tel:346-274-1861"
+            style="color: #27272a; font-weight: 600; text-decoration: none"
+          >
+            Call us here now
+          </a>
+          to learn more and get a quote.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Choose our CustomCleanBnB difference.
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Sincerely,<br />(Name)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#27272A">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="tel:346-274-1861"
+            style="color: #ffffff; text-decoration: none"
+          >
+            346-274-1861
+          </a>
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; text-decoration: none"
+          >
+            customcleanbnb.com
+          </a>
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="mailto:customcleanbnb@gmail.com"
+            style="color: #ffffff; text-decoration: none"
+          >
+            customcleanbnb@gmail.com
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
