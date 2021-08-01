@@ -185,5 +185,61 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#27272A">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="tel:346-274-1861"
+            style="color: #ffffff; text-decoration: none"
+          >
+            346-274-1861
+          </a>
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="https://customcleanbnb.com"
+            style="color: #ffffff; text-decoration: none"
+          >
+            customcleanbnb.com
+          </a>
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          padding-top="0"
+        >
+          <a
+            href="mailto:customcleanbnb@gmail.com"
+            style="color: #ffffff; text-decoration: none"
+          >
+            customcleanbnb@gmail.com
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
