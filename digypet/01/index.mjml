@@ -13,7 +13,7 @@
         <mj-image
           alt=""
           href="https://www.digypet.com/"
-          src="https://www.digypet.com/_nuxt/img/logo-header.b3a2d7b.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/logo.svg"
           width="156px"
         />
       </mj-column>
