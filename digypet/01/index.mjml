@@ -293,7 +293,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/why.jpg"
           alt=""
-          padding="24px 0"
+          padding="24px 24px 24px 0"
         />
 
         <mj-text
