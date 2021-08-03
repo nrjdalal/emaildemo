@@ -25,7 +25,7 @@
         <mj-image
           alt=""
           href="https://www.digypet.com/categories"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/dog.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/popular-categories.jpg"
           padding="0"
         />
       </mj-column>
