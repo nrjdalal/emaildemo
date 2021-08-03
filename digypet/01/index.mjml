@@ -7,6 +7,7 @@
   <mj-body>
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
+      padding="6px"
     >
       <mj-column>
         <mj-image
