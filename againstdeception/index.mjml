@@ -21,6 +21,20 @@
       </mj-column>
     </mj-section>
 
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          alt=""
+          href="https://www.againstdeception.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/Against Deception.webp"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- message -->
     <mj-section background-color="#BE185D">
       <mj-column>
@@ -58,6 +72,13 @@
           alt=""
           padding="24px"
         />
+
+        <mj-button
+          background-color="#BE185D"
+          href="https://againstdeception.hearnow.com/two-steps"
+        >
+          PLAY NOW
+        </mj-button>
 
         <mj-text
           align="center"
@@ -110,6 +131,14 @@
           padding="24px"
         />
 
+        <mj-button
+          background-color="#F9FAFB"
+          color="#BE185D"
+          href="https://againstdeception.hearnow.com/limitless-love"
+        >
+          PLAY NOW
+        </mj-button>
+
         <mj-text
           align="center"
           color="#F9FAFB"
@@ -137,7 +166,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- text 01 -->
+    <!-- text 03 -->
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
@@ -145,6 +174,13 @@
           alt=""
           padding="24px"
         />
+
+        <mj-button
+          background-color="#BE185D"
+          href="https://againstdeception.hearnow.com/paradox-of-danger"
+        >
+          PLAY NOW
+        </mj-button>
 
         <mj-text
           align="center"
@@ -174,7 +210,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- text 02 -->
+    <!-- text 04 -->
     <mj-section background-color="#BE185D" padding="36px 0">
       <mj-column>
         <mj-image
@@ -182,6 +218,14 @@
           alt=""
           padding="24px"
         />
+
+        <mj-button
+          background-color="#F9FAFB"
+          color="#BE185D"
+          href="https://againstdeception.hearnow.com/fly-heights-unknown"
+        >
+          PLAY NOW
+        </mj-button>
 
         <mj-text
           align="center"
