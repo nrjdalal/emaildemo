@@ -168,6 +168,12 @@
           How To Build The Best Service Listing
         </mj-text>
 
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
+          alt=""
+          padding="24px"
+        />
+
         <mj-text
           color="#27272A"
           font-family="Poppins, sans-serif"
@@ -196,6 +202,48 @@
           alt=""
           padding="0"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- Import Your Reviews -->
+    <mj-section background-color="#0EA5E9">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="15px"
+          font-weight="600"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Import Your Reviews
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
+          alt=""
+          padding="24px"
+        />
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Do you already have reviews on Facebook or Rover? Get a head! Start by
+          importing your existing reviews today from your Facebook and Rover
+          accounts. Reviews are one of the biggest things pet parents look for
+          when deciding which service provider they want to hire.
+          <br /><br />
+          To import reviews simply click on your profile dropdown and click on
+          your profile tab. Once you are on your profile page, you will see a
+          tab called "Reviews", and on this page, you can easily import your
+          existing reviews from Facebook and Rover.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
