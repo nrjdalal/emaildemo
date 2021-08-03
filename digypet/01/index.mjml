@@ -11,6 +11,7 @@
       <mj-column>
         <mj-image
           alt=""
+          href="https://www.digypet.com/"
           src="https://www.digypet.com/_nuxt/img/logo-header.b3a2d7b.svg"
           width="156px"
         />
@@ -21,8 +22,9 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/popular-categories.jpg"
           alt=""
+          href="https://www.digypet.com/categories"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/popular-categories.jpg"
           padding="0"
         />
       </mj-column>
