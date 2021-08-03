@@ -39,7 +39,7 @@
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="500"
-          letter-spacing="1px"
+          letter-spacing="0.2px"
           line-height="1.4"
         >
           Hi there, my name is Mason. I noticed that you signed up with us at
@@ -48,37 +48,104 @@
           here to help! When completing your profile page be sure to:
         </mj-text>
 
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-01.png"
+          padding-top="30px"
+          width="56px"
+        />
+
         <mj-text
           color="#F9FAFB"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="400"
-          letter-spacing="1px"
+          letter-spacing="0.2px"
           line-height="1.4"
         >
-          ➡ Upload a stunning profile image and banner.<br /><br />➡ Complete
-          your biography so your new clients will know who you are. This will
-          lead to an increase in bookings.<br /><br />➡ Remember you can add any
-          pet service you want to offer like dog walking, pet sitting, training,
-          grooming, pet photography, horseback riding lessons and more!<br /><br />➡
+          Upload a stunning profile image and banner.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-02.png"
+          width="56px"
+        />
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Complete your biography so your new clients will know who you are.
+          This will lead to an increase in bookings.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-03.png"
+          width="56px"
+        />
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Remember you can add any pet service you want to offer like dog
+          walking, pet sitting, training, grooming, pet photography, horseback
+          riding lessons and more!
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-04.png"
+          width="56px"
+        />
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
           You work when you want and how you want by setting your own prices and
-          availability.<br /><br />➡ Do you have reviews on Facebook or Rover?
-          Get a head start building your profile by importing existing reviews
-          from Facebook and Rover. Don’t forget you can also upload or create
-          personal blogs.
+          availability.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
+          width="56px"
+        />
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Do you have reviews on Facebook or Rover? Get a head start building
+          your profile by importing existing reviews from Facebook and Rover.
+          Don’t forget you can also upload or create personal blogs.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- How To Build The Best Service Listing -->
-    <mj-section background-color="#2563EB">
+    <!-- <mj-section background-color="#2563EB">
       <mj-column>
         <mj-text
           color="#F9FAFB"
           font-family="Poppins, sans-serif"
           font-size="16px"
           font-weight="500"
-          letter-spacing="1px"
+          letter-spacing="0.2px"
           line-height="1.4"
         >
           How To Build The Best Service Listing
@@ -89,7 +156,7 @@
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="400"
-          letter-spacing="1px"
+          letter-spacing="0.2px"
           line-height="1.4"
         >
           When it comes to building your pet services, services with thorough
@@ -102,6 +169,6 @@
           to increased booking.
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
   </mj-body>
 </mjml>
