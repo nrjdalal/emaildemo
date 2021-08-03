@@ -19,7 +19,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Popular Categories -->
+    <!-- Popular Categories Dark 27272A Light F9FAFB-->
     <mj-section padding="0">
       <mj-column>
         <mj-image
@@ -32,10 +32,10 @@
     </mj-section>
 
     <!-- Message -->
-    <mj-section background-color="#F9FAFB">
+    <mj-section background-color="#2563EB">
       <mj-column>
         <mj-text
-          color="#27272A"
+          color="#F9FAFB"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="500"
@@ -49,7 +49,7 @@
         </mj-text>
 
         <mj-text
-          color="#27272A"
+          color="#F9FAFB"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="400"
