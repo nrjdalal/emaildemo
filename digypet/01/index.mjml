@@ -141,6 +141,7 @@
         </mj-text>
 
         <mj-button
+          href="https://www.digypet.com/"
           background-color="#EF4444"
           font-size="14px"
           padding-top="36px"
