@@ -383,5 +383,34 @@
         />
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://facebook.com/digypet"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="https://instagram.com/digypet"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          <a href="https://www.digypet.com/"> www.digypet.com </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
