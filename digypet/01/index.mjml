@@ -32,7 +32,7 @@
     </mj-section>
 
     <!-- Message -->
-    <mj-section background-color="#2563EB">
+    <mj-section background-color="#0EA5E9">
       <mj-column>
         <mj-text
           color="#F9FAFB"
