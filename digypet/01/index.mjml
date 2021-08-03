@@ -15,7 +15,13 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-image src="" alt="" />
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/popular-categories.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
     </mj-section>
 
     <!-- Message -->
