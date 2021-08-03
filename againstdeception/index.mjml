@@ -21,7 +21,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- text 01 -->
+    <!-- message -->
     <mj-section background-color="#BE185D">
       <mj-column>
         <mj-text
@@ -50,7 +50,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- How To Build The Best Service Listing -->
+    <!-- text 01 -->
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
@@ -101,11 +101,11 @@
       </mj-column>
     </mj-section>
 
-    <!-- Import Your Reviews -->
+    <!-- text 02 -->
     <mj-section background-color="#BE185D">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-02.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/02.jpg"
           alt=""
           padding="24px"
         />
@@ -119,170 +119,46 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Do you already have reviews on Facebook or Rover? Get a head! Start by
-          importing your existing reviews today from your Facebook and Rover
-          accounts. Reviews are one of the biggest things pet parents look for
-          when deciding which service provider they want to hire.
-          <br /><br />
-          To import reviews simply click on your profile dropdown and click on
-          your profile tab. Once you are on your profile page, you will see a
-          tab called "Reviews", and on this page, you can easily import your
-          existing reviews from Facebook and Rover.
+          People that are searching for the path of the truth will find her
+          music Eye-opening, Against Deception writes whatever GOD places on her
+          heart her to write, GOD inspires all her lyrics.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- divider 01 -->
+    <!-- waves 01 -->
     <mj-section background-color="#F9FAFB" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/waves-01-pink-700.png"
           alt=""
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <!-- How To Build The Best Service Listing -->
+    <!-- text 01 -->
     <mj-section background-color="#F9FAFB">
       <mj-column>
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="18px"
-          font-weight="600"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Why DigyPet
-        </mj-text>
-
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          From Hamsters to Horses, Parrots to Pomeranians, and Deserts to
-          Rainforest, Digypet is your one-stop-shop for pet care services,
-          networking, and education. At Digypet you can connect with your tribe,
-          share moments, set up groups, and plan events. You can access hundreds
-          of common, innovative, and unique services. The Digypet learning
-          center is designed to help you be the best pet parent you can be while
-          inspiring you with educational eco and wildlife tips.
-        </mj-text>
-
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/why.jpg"
-          alt=""
-          padding="24px 24px 24px 0"
-        />
-
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          We also have a lost and found to help lost pets find their way home,
-          as well as an adoption center if you are looking for a new family
-          member
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- divider 02 -->
-    <mj-section background-color="#F9FAFB" padding="0">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-02.png"
-          alt=""
-          padding="0"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- Our Partners -->
-    <mj-section background-color="#0EA5E9">
-      <mj-column>
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="18px"
-          font-weight="600"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Our Partners
-        </mj-text>
-
-        <mj-image
-          href="https://edenprojects.org"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/partner-01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/01.jpg"
           alt=""
           padding="24px"
         />
 
         <mj-text
           align="center"
-          color="#F9FAFB"
+          color="#27272A"
           font-family="Poppins, sans-serif"
-          font-size="14px"
+          font-size="16px"
           font-weight="400"
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Digypet proudly supports pets, the environment, and wildlife by
-          partnering with organizations geared towards saving the planet and all
-          the animals on it.
-          <span style="font-weight: 600">
-            Every order completed gets a tree planted and a portion of all
-            profits go to combating poaching.
-          </span>
-        </mj-text>
-
-        <mj-image
-          href="https://vetpaw.org"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/partner-02.png"
-          alt=""
-          padding="24px"
-        />
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#F9FAFB">
-      <mj-column>
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://facebook.com/digypet"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="instagram"
-            href="https://instagram.com/digypet"
-          >
-          </mj-social-element>
-        </mj-social>
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          <a href="https://www.digypet.com/"> www.digypet.com </a>
+          Against Deception’s Fans say Amazing! Original! Electrifying!
+          Beautiful! The messages in the lyrics were so very relevant to our
+          times. And you phrased them so poetically. And you looked like a
+          philosopher/prophet. Out of this world, the visuals were fabulous!
         </mj-text>
       </mj-column>
     </mj-section>
