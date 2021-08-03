@@ -37,7 +37,7 @@
         <mj-text
           color="#F9FAFB"
           font-family="Poppins, sans-serif"
-          font-size="15px"
+          font-size="16px"
           font-weight="600"
           letter-spacing="0.2px"
           line-height="1.4"
@@ -160,7 +160,7 @@
           align="center"
           color="#27272A"
           font-family="Poppins, sans-serif"
-          font-size="15px"
+          font-size="18px"
           font-weight="600"
           letter-spacing="0.2px"
           line-height="1.4"
@@ -210,9 +210,9 @@
       <mj-column>
         <mj-text
           align="center"
-          color="#27272A"
+          color="#F9FAFB"
           font-family="Poppins, sans-serif"
-          font-size="15px"
+          font-size="18px"
           font-weight="600"
           letter-spacing="0.2px"
           line-height="1.4"
@@ -265,7 +265,7 @@
           align="center"
           color="#27272A"
           font-family="Poppins, sans-serif"
-          font-size="15px"
+          font-size="18px"
           font-weight="600"
           letter-spacing="0.2px"
           line-height="1.4"
@@ -273,10 +273,27 @@
           Why DigyPet
         </mj-text>
 
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          From Hamsters to Horses, Parrots to Pomeranians, and Deserts to
+          Rainforest, Digypet is your one-stop-shop for pet care services,
+          networking, and education. At Digypet you can connect with your tribe,
+          share moments, set up groups, and plan events. You can access hundreds
+          of common, innovative, and unique services. The Digypet learning
+          center is designed to help you be the best pet parent you can be while
+          inspiring you with educational eco and wildlife tips.
+        </mj-text>
+
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/why.jpg"
           alt=""
-          padding="24px"
+          padding="24px 0"
         />
 
         <mj-text
@@ -287,14 +304,9 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          When it comes to building your pet services, services with thorough
-          descriptions and stunning imagery get the most bookings. To add your
-          pet service to your profile, go to your dropdown profile menu and
-          click on your profile tab. Once on your profile page, you will see a
-          tab called "Services" this page is where you will create your very own
-          pet service listing. When setting your prices and building your
-          services, remember, services that stand out from the others will lead
-          to increased booking.
+          We also have a lost and found to help lost pets find their way home,
+          as well as an adoption center if you are looking for a new family
+          member
         </mj-text>
       </mj-column>
     </mj-section>
