@@ -63,7 +63,7 @@
           align="center"
           color="#27272A"
           font-family="Poppins, sans-serif"
-          font-size="14px"
+          font-size="16px"
           font-weight="400"
           letter-spacing="0.2px"
           line-height="1.4"
@@ -90,11 +90,11 @@
       </mj-column>
     </mj-section>
 
-    <!-- divider 02 -->
+    <!-- waves 02 -->
     <mj-section background-color="#F9FAFB" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-02.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/waves-02-pink-700.png"
           alt=""
           padding="0"
         />
@@ -102,20 +102,8 @@
     </mj-section>
 
     <!-- Import Your Reviews -->
-    <mj-section background-color="#0EA5E9">
+    <mj-section background-color="#BE185D">
       <mj-column>
-        <mj-text
-          align="center"
-          color="#FDE047"
-          font-family="Poppins, sans-serif"
-          font-size="18px"
-          font-weight="600"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Import Your Reviews
-        </mj-text>
-
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-02.png"
           alt=""
