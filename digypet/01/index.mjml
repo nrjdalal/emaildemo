@@ -246,5 +246,57 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <!-- divider 01 -->
+    <mj-section background-color="#F9FAFB" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-01.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- How To Build The Best Service Listing -->
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="15px"
+          font-weight="600"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Why DigyPet
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
+          alt=""
+          padding="24px"
+        />
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          When it comes to building your pet services, services with thorough
+          descriptions and stunning imagery get the most bookings. To add your
+          pet service to your profile, go to your dropdown profile menu and
+          click on your profile tab. Once on your profile page, you will see a
+          tab called "Services" this page is where you will create your very own
+          pet service listing. When setting your prices and building your
+          services, remember, services that stand out from the others will lead
+          to increased booking.
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
