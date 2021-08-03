@@ -141,7 +141,8 @@
         </mj-text>
 
         <mj-button
-          background-color="#DC2626"
+          background-color="#EF4444"
+          font-size="14px"
           padding-top="36px"
           padding-bottom="24px"
           >Complete Your Profile</mj-button
