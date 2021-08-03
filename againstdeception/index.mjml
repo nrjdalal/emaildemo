@@ -68,6 +68,7 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
+          href="https://againstdeception.hearnow.com/two-steps"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/01.jpg"
           alt=""
           padding="24px"
@@ -126,6 +127,7 @@
     <mj-section background-color="#BE185D" padding="36px 0">
       <mj-column>
         <mj-image
+          href="https://againstdeception.hearnow.com/limitless-love"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/02.jpg"
           alt=""
           padding="24px"
@@ -170,6 +172,7 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
+          href="https://againstdeception.hearnow.com/paradox-of-danger"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/03.jpg"
           alt=""
           padding="24px"
@@ -214,6 +217,7 @@
     <mj-section background-color="#BE185D" padding="36px 0">
       <mj-column>
         <mj-image
+          href="https://againstdeception.hearnow.com/fly-heights-unknown"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/04.jpg"
           alt=""
           padding="24px"
