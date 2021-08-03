@@ -43,9 +43,10 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Hi there, my name is Mason. I noticed you might need a little help
-          setting up your profile. Don’t worry I am here to help! Here are some
-          tips to help you get started!
+          Hi there, my name is Mason.<br /><br />I wanted to thank you for
+          applying to become a pet service provider for DigyPet! To become a
+          service provider, please go to DigyPet.com and build a profile! Please
+          be sure to follow the steps below.
         </mj-text>
 
         <mj-image
