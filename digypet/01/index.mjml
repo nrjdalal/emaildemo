@@ -351,16 +351,20 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Do you already have reviews on Facebook or Rover? Get a head! Start by
-          importing your existing reviews today from your Facebook and Rover
-          accounts. Reviews are one of the biggest things pet parents look for
-          when deciding which service provider they want to hire.
-          <br /><br />
-          To import reviews simply click on your profile dropdown and click on
-          your profile tab. Once you are on your profile page, you will see a
-          tab called "Reviews", and on this page, you can easily import your
-          existing reviews from Facebook and Rover.
+          Digypet proudly supports pets, the environment, and wildlife by
+          partnering with organizations geared towards saving the planet and all
+          the animals on it.
+          <span style="font-weight: 600">
+            Every order completed gets a tree planted and a portion of all
+            profits go to combating poaching.
+          </span>
         </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/partner-02.png"
+          alt=""
+          padding="24px"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
