@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+  /></mj-head>
+  <mj-body>
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-image
+          alt=""
+          src="https://www.digypet.com/_nuxt/img/logo-header.b3a2d7b.svg"
+          width="156px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-image src="" alt="" />
+    </mj-section>
+
+    <!-- Message -->
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          Hi there, my name is Mason. I noticed that you signed up with us at
+          Digypet but haven’t complete your profile section or created a pet
+          service listing yet.<br />&nbsp;&nbsp;&nbsp;&nbsp;Don’t worry I am
+          here to help! When completing your profile page be sure to:
+        </mj-text>
+
+        <mj-text
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          ➡ Upload a stunning profile image and banner.<br /><br />➡ Complete
+          your biography so your new clients will know who you are. This will
+          lead to an increase in bookings.<br /><br />➡ Remember you can add any
+          pet service you want to offer like dog walking, pet sitting, training,
+          grooming, pet photography, horseback riding lessons and more!<br /><br />➡
+          You work when you want and how you want by setting your own prices and
+          availability.<br /><br />➡ Do you have reviews on Facebook or Rover?
+          Get a head start building your profile by importing existing reviews
+          from Facebook and Rover. Don’t forget you can also upload or create
+          personal blogs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
