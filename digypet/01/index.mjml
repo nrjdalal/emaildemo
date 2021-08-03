@@ -32,10 +32,10 @@
     </mj-section>
 
     <!-- Message -->
-    <mj-section background-color="#27272A">
+    <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-text
-          color="#F9FAFB"
+          color="#27272A"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="500"
@@ -49,7 +49,7 @@
         </mj-text>
 
         <mj-text
-          color="#F9FAFB"
+          color="#27272A"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="400"
@@ -66,6 +66,40 @@
           Get a head start building your profile by importing existing reviews
           from Facebook and Rover. Don’t forget you can also upload or create
           personal blogs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- How To Build The Best Service Listing -->
+    <mj-section background-color="#2563EB">
+      <mj-column>
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="16px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          How To Build The Best Service Listing
+        </mj-text>
+
+        <mj-text
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          When it comes to building your pet services, services with thorough
+          descriptions and stunning imagery get the most bookings. To add your
+          pet service to your profile, go to your dropdown profile menu and
+          click on your profile tab. Once on your profile page, you will see a
+          tab called "Services" this page is where you will create your very own
+          pet service listing. When setting your prices and building your
+          services, remember, services that stand out from the others will lead
+          to increased booking.
         </mj-text>
       </mj-column>
     </mj-section>
