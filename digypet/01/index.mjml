@@ -338,6 +338,7 @@
         </mj-text>
 
         <mj-image
+          href="https://edenprojects.org"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/partner-01.png"
           alt=""
           padding="24px"
@@ -361,6 +362,7 @@
         </mj-text>
 
         <mj-image
+          href="https://vetpaw.org"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/partner-02.png"
           alt=""
           padding="24px"
