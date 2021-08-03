@@ -5,6 +5,7 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
   /></mj-head>
   <mj-body>
+    <!-- header -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
       padding="0"
@@ -15,11 +16,12 @@
           href="https://www.againstdeception.com/"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/logo.png"
           width="300px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <!-- Message -->
+    <!-- text 01 -->
     <mj-section background-color="#BE185D">
       <mj-column>
         <mj-text
@@ -37,11 +39,11 @@
       </mj-column>
     </mj-section>
 
-    <!-- divider 01 -->
+    <!-- waves 01 -->
     <mj-section background-color="#F9FAFB" padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/waves-01-pink-700.png"
           alt=""
           padding="0"
         />
@@ -51,18 +53,6 @@
     <!-- How To Build The Best Service Listing -->
     <mj-section background-color="#F9FAFB">
       <mj-column>
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="18px"
-          font-weight="600"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          How To Build The Best Service Listing
-        </mj-text>
-
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/01.jpg"
           alt=""
@@ -78,14 +68,24 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          When it comes to building your pet services, services with thorough
-          descriptions and stunning imagery get the most bookings. To add your
-          pet service to your profile, go to your dropdown profile menu and
-          click on your profile tab. Once on your profile page, you will see a
-          tab called "Services" this page is where you will create your very own
-          pet service listing. When setting your prices and building your
-          services, remember, services that stand out from the others will lead
-          to increased booking.
+          Against Deception recently released a brand new album: Honeycomb.
+          Against Deception, in addition to writing and singing, has pushed her
+          to do album after album. Since she has decided to follow Christ, She
+          continues to become like Him. She wants the young generation to see
+          the Truth and Love. Through her music, Against Deception aims to lead
+          people into worship. As a result, her style has no boundaries and
+          explores an incredibly diverse range; talented singer and musician
+          Tammy Kempf is known as Against Deception, is set to soar to new
+          heights as she crafts exceptional blends of Pop, EDM, and Trance while
+          sticking to her Christian foundations. A strong set of values that she
+          wants to express with her music. Imbued with her unique vision and
+          dedication to the Christian faith and God's hard-hitting truths,
+          plunges listeners into a magical new dimension. With the release of
+          “Limitless Love”, Against Deception is now steering towards recording
+          a Electronic Christian Album which will cement her position as a
+          unique and talented musician. Her lyrics are shocking, bold, and full
+          of truth. She takes Christian Music to another level that no other
+          Christian Artist has gone.
         </mj-text>
       </mj-column>
     </mj-section>
