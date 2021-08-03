@@ -142,7 +142,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- divider -->
+    <!-- divider 01 -->
     <mj-section background-color="#F9FAFB" padding="0">
       <mj-column>
         <mj-image
@@ -185,6 +185,17 @@
           services, remember, services that stand out from the others will lead
           to increased booking.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- divider 02 -->
+    <mj-section background-color="#F9FAFB" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-02.png"
+          alt=""
+          padding="0"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
