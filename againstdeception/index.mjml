@@ -7,12 +7,12 @@
   <mj-body>
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
-      padding="6px"
+      padding="0"
     >
       <mj-column>
         <mj-image
           alt=""
-          href="https://www.digypet.com/"
+          href="https://www.againstdeception.com/"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/logo.png"
           width="300px"
         />
@@ -20,7 +20,7 @@
     </mj-section>
 
     <!-- Message -->
-    <mj-section background-color="#0EA5E9">
+    <mj-section background-color="#BE185D">
       <mj-column>
         <mj-text
           align="center"
@@ -64,7 +64,7 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/01.jpg"
           alt=""
           padding="24px"
         />
