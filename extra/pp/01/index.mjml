@@ -139,7 +139,7 @@
           font-weight="400"
           letter-spacing="0.2px"
           line-height="1.4"
-        >
+          ><br />
           Item Subtotal: [amount]
           <br />
           Shipping & Handling: [amount]
@@ -147,7 +147,7 @@
           Shipment Total: [amount]
           <br />
           Credit Apply: -[amount]
-          <br />
+          <br /><br />
           <span style="font-weight: 600">Payment Pending: [amount]</span>
         </mj-text>
       </mj-column>
