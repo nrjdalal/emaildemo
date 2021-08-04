@@ -171,9 +171,14 @@
           <br /><br />
           <a
             href="tel:+1-320-584-9066"
-            style="color: #f9fafb; font-weight: 600; text-decoration: none"
+            style="
+              color: #f9fafb;
+              font-size: 16px;
+              font-weight: 600;
+              text-decoration: none;
+            "
           >
-            Helpline +1-320-584-9066
+            Helpline: +1-320-584-9066
           </a>
         </mj-text>
       </mj-column>
