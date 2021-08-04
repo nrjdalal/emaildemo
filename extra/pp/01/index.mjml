@@ -82,7 +82,7 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          The package is being shipped, provided tracking number is
+          Your order is out for delivery, provided tracking number is
           [tracking_number]. A signature may be required for the receiving of
           the package.
         </mj-text>
