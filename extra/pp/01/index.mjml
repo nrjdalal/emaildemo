@@ -21,7 +21,7 @@
     </mj-section>
 
     <!-- order number and date -->
-    <mj-section background-color="#F9FAFB" padding="0">
+    <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-text
           align="center"
