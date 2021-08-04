@@ -107,7 +107,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/extra/pp/assets/ipad-pro.jpg"
           alt=""
-          padding="0 48px 48px 48px"
+          padding="24px 48px 48px 48px"
         />
 
         <mj-text
