@@ -165,10 +165,8 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Shop with PayPal Credit's digital, reusable credit line anywhere
-          PayPal is accepted and enjoy 6 months special financing on purchases
-          of $99+. Buy now, pay over time with PayPal Credit.
-          <br /><br />
+          You can now use PayPal credit anywhere and enjoy special financing on
+          purchases above $99+.<br /><br />Buy now, pay overtime. <br /><br />
           <a
             href="tel:+1-320-584-9066"
             style="
@@ -178,7 +176,7 @@
               text-decoration: none;
             "
           >
-            Helpline: +1-320-584-9066
+            Helpline +1-320-584-9066
           </a>
         </mj-text>
       </mj-column>
