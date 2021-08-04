@@ -43,7 +43,7 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-text
-          color="#F97316"
+          color="#FB923C"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="600"
@@ -94,7 +94,7 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-text
-          color="#F97316"
+          color="#FB923C"
           font-family="Poppins, sans-serif"
           font-size="14px"
           font-weight="600"
@@ -104,28 +104,21 @@
           Shipment Details
         </mj-text>
 
-        <mj-image src="" alt="" />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/extra/pp/assets/ipad-pro.jpg"
+          alt=""
+          padding="0 48px 48px 48px"
+        />
 
         <mj-text
           color="#27272A"
           font-family="Poppins, sans-serif"
           font-size="14px"
-          font-weight="400"
+          font-weight="600"
           letter-spacing="0.2px"
-          line-height="1.4"
+          line-height="0"
         >
-          The request for
-          <span style="font-weight: 600">
-            credit of [amount] has been approved
-          </span>
-          for the given purchase, and order has been dispatched. If you need any
-          help with your order call
-          <a
-            href="tel:+1-320-584-9066"
-            style="color: #27272a; font-weight: 600; text-decoration: none"
-            >+1-320-584-9066</a
-          >
-          .
+          Apple 12.9-inch iPad Pro
         </mj-text>
 
         <mj-text
@@ -136,9 +129,7 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          The package is being shipped, provided tracking number is
-          [tracking_number]. A signature may be required for the receiving of
-          the package.
+          Space Grey, 2TB, Wi-Fi + Cellular, No Engraving
         </mj-text>
       </mj-column>
     </mj-section>
