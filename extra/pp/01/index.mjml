@@ -131,6 +131,75 @@
         >
           Space Grey, 2TB, Wi-Fi + Cellular, No Engraving
         </mj-text>
+
+        <mj-text
+          align="right"
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Item Subtotal: [amount]
+          <br />
+          Shipping& Handling: [amount]
+          <br />
+          Shipment Total: [amount]
+          <br />
+          Credit Apply: -[amount]
+          <br />
+          <span style="font-weight: 600">Payment Pending: [amount]</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#555555">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Shop with PayPal Credit's digital, reusable credit line anywhere
+          PayPal is accepted and enjoy 6 months special financing on purchases
+          of $99+. Buy now, pay over time with PayPal Credit.
+          <br /><br />
+          <a
+            href="tel:+1-320-584-9066"
+            style="color: #f9fafb; font-weight: 600; text-decoration: none"
+          >
+            Helpline +1-320-584-9066
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Ending -->
+    <mj-section background-color="#F9FAFB">
+      <mj-column>
+        <mj-text
+          align="center"
+          color="#27272A"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          This is a notification only email.<br />Please do not reply to it.<br /><br />
+          <a
+            alt="unsubscribe"
+            href="https://unsubscribeme.us"
+            style="color: #27272a; font-weight: 400"
+          >
+            Unsubscribe me from furthur alerts
+          </a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
