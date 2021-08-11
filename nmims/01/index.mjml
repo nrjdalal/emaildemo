@@ -14,8 +14,8 @@
         <mj-image
           alt=""
           href="https://www.digypet.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/logo.png"
-          width="156px"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/nmims/assets/logo.svg"
+          width="256px"
         />
       </mj-column>
     </mj-section>
