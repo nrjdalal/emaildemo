@@ -194,8 +194,17 @@
           MBA for Working Executives [15 Months]<br /><br />
           MSc - Applied Finance [2 Years]<br /><br />
           Bachelor of Business Administration [3 Years]<br /><br />
-          Bachelor of Commerce [3 Years]<br /><br />
+          Bachelor of Commerce [3 Years]
         </mj-text>
+
+        <mj-button
+          href="https://www.digypet.com/"
+          background-color="#EF4444"
+          font-size="14px"
+          padding-top="36px"
+          padding-bottom="24px"
+          >VIEW ALL PROGRAMS</mj-button
+        >
       </mj-column>
     </mj-section>
 
