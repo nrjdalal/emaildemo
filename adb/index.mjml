@@ -8,19 +8,18 @@
   <mj-body>
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
-      padding="6px"
+      padding="8px"
     >
       <mj-column>
         <mj-image
           alt=""
-          href="https://www.halo.co.in/"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/nmims/assets/logo.svg"
-          width="256px"
+          href="https://www.advogadosdosbrasileiros.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/adb/assets/logo.png"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#0EA5E9">
+    <mj-section background-color="#14427b">
       <mj-column>
         <mj-text
           align="center"
@@ -31,184 +30,12 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Greetings from NMIMS Global Access School for Continuing Education
-          (NGA-SCE) – India’s Premier Institute for Management Education.<br /><br />As
-          per recent reports in leading newspapers demand for MBA professionals
-          is on the rise. A graduate degree will not be enough to Bridge the
-          Distance between you and your dream career. It is strongly recommended
-          that you enroll for the Distance MBA programs from NGA-SCE and gear up
-          to meet the ever-increasing demand for MBA professionals.
+          PORQUE VOCÊ NÃO DEVERIA SE EXPOR NAS REDES SOCIAIS DURANTE O ANDAMENTO
+          DO SEU CASO.
         </mj-text>
-
-        <mj-button
-          href="https://www.digypet.com/"
-          background-color="#EF4444"
-          font-size="14px"
-          padding-top="36px"
-          padding-bottom="24px"
-          >NMIMS DISTANCE MBA DETAILS</mj-button
-        >
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          padding-top="30px"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          All our programs are UGC-DEB entitled
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Flexible Fee Payment options - Loans and EMI’s
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Online Assignments and Flexible Exam Schedule
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Constant Academic Support
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Dedicated Student Services
-        </mj-text>
-
-        <mj-button
-          href="https://www.digypet.com/"
-          background-color="#EF4444"
-          font-size="14px"
-          padding-top="36px"
-          padding-bottom="24px"
-          >WHY CHOOSE NMIMS</mj-button
-        >
       </mj-column>
     </mj-section>
 
-    <!-- divider 01 -->
-    <mj-section background-color="#F9FAFB" padding="0">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/divider-01.png"
-          alt=""
-          padding="0"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- How To Build The Best Service Listing -->
-    <mj-section background-color="#F9FAFB">
-      <mj-column>
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="18px"
-          font-weight="600"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          PROGRAMS FROM NMIMS
-        </mj-text>
-
-        <!-- <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/section-01.png"
-          alt=""
-          padding="24px"
-        /> -->
-
-        <mj-text
-          align="center"
-          color="#27272A"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Master in Business Administration - MBA Distance [2 Years]<br /><br />
-          Diploma Programs [1 Year]<br /><br />
-          Professional Diploma Programs [1 Year]<br /><br />
-          Certificate Programs [6 Months]<br /><br />
-          MBA for Working Executives [15 Months]<br /><br />
-          MSc - Applied Finance [2 Years]<br /><br />
-          Bachelor of Business Administration [3 Years]<br /><br />
-          Bachelor of Commerce [3 Years]
-        </mj-text>
-
-        <mj-button
-          href="https://www.digypet.com/"
-          background-color="#EF4444"
-          font-size="14px"
-          padding-top="36px"
-          padding-bottom="24px"
-          >VIEW ALL PROGRAMS</mj-button
-        >
-      </mj-column>
-    </mj-section>
-
-    <!-- poster -->
     <mj-section padding="0">
       <mj-column>
         <mj-image
@@ -217,6 +44,67 @@
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/nmims/assets/signup-today.png"
           padding="0"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-text
+          align="left"
+          color="#000000"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
+          Olá, *[PRIMEIRO_NOME]*
+          <br /><br />
+          Você já pensou como sua exposição nas redes sociais pode afetar o
+          andamento do seu caso?
+          <br /><br />
+          Gostaria que você prestasse atenção nas valiosas informações que vou
+          lhe apresentar hoje neste email.
+          <br /><br />
+          As seguradoras e os advogados de defesa prestam muita atenção às
+          mídias sociais, incluindo Facebook, Instagram, Twitter, Snapchat,
+          YouTube e outros canais de mídia. Eles verificam esses sites
+          regularmente para encontrar evidências que justifiquem que sua
+          condição física não é o que você e seus médicos dizem que é. Estes são
+          sites públicos e qualquer pessoa pode usar informações encontradas lá
+          contra você.
+          <br /><br />
+          Agora você sabe que o objetivo da seguradora é pagar a você o mínimo
+          possível em compensação por seus ferimentos.
+          <br /><br />
+          A maneira mais segura de evitar este problema é se ocultar das mídias
+          sociais até que seu caso seja resolvido. Se você não puder abandonar
+          completamente as mídias sociais, tente limitar uso e siga estas
+          diretrizes:
+          <br /><br />
+          Peça a amigos e familiares que não coloquem fotos suas e que não
+          marquem você em nenhum post de mídia social. Uma fotografia pode ser
+          mal interpretada e a companhia de seguros pode alegar que você está
+          exagerando seus ferimentos e sintomas para obter ganhos financeiros.
+          <br /><br />
+          Antes de postar qualquer coisa, pergunte-se: "Há alguma maneira desta
+          foto, tweet, curtida, compartilhamento, etc., poder ser mal
+          interpretada e usada contra mim"?
+          <br /><br />
+          Defina todas as suas contas de mídias sociais para o mais alto nível
+          de privacidade.
+          <br /><br />
+          Não aceite pedidos de amizade de ninguém que você não conheça
+          pessoalmente.
+          <br /><br />
+          Até que seu caso esteja concluído, não coloque nada sobre seu
+          acidente, seus ferimentos, etc. em nenhum site de mídia social.
+          <br /><br />
+          Em outras palavras, trate sua reivindicação de danos pessoais como se
+          fosse um assunto particular.
+          <br /><br />
+          Desejamos a você uma breve recuperação.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
