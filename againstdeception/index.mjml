@@ -50,6 +50,14 @@
           New Christian Artist Against Deception does multifaceted genres of
           POP, EDM, Trap, and Trance music.
         </mj-text>
+
+        <mj-button
+          background-color="#F9FAFB"
+          color="#BE185D"
+          href="https://againstdeception.hearnow.com/honeycomb"
+        >
+          LISTEN NOW
+        </mj-button>
       </mj-column>
     </mj-section>
 
