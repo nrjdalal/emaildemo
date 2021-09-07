@@ -70,14 +70,14 @@
           ></a>
         </mj-text>
 
-        <mj-image
+        <!-- <mj-image
           alt=""
           href="https://www.youtube.com/watch?v=c9g8TQgLgQY"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/video.png"
           padding-top="30px"
           padding-bottom="30px"
           border-radius="10px"
-        />
+        /> -->
       </mj-column>
     </mj-section>
 
@@ -372,14 +372,14 @@
           more.
         </mj-text>
 
-        <mj-image
+        <!-- <mj-image
           alt=""
           href="https://www.youtube.com/watch?v=qQR8L_0LrYM&t=9s"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/video.png"
           padding-top="30px"
           padding-bottom="30px"
           border-radius="10px"
-        />
+        /> -->
       </mj-column>
     </mj-section>
 
