@@ -48,11 +48,32 @@
           Have you ever thought about having your fur baby transformed into a
           beautiful pet painting or Pet portrait that you can hang up in that
           special place for all your friends and family to see? <br /><br />
-          Here at DigyPet we go you covered!
+          Here at
+          <a
+            href="https://www.digypet.com/"
+            style="
+              text-decoration: none;
+              color: #ffffff;
+              border-bottom: 1px solid #ffffff;
+            "
+            >DigyPet</a
+          >
+          we go you covered!
+
+          <a
+            href=""
+            style="
+              text-decoration: none;
+              color: #ffffff;
+              border-bottom: 1px solid #ffffff;
+            "
+          ></a>
         </mj-text>
 
         <mj-image
-          src="https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80"
+          alt=""
+          href="https://www.youtube.com/watch?v=c9g8TQgLgQY"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/video.png"
           padding-top="30px"
           padding-bottom="30px"
           border-radius="10px"
@@ -131,10 +152,20 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Here at DigyPet Come meet Shannon Gordy
+          Here at DigyPet Come meet
+          <a
+            href="https://www.digypet.com/user/shannon-gordy/services"
+            style="
+              text-decoration: none;
+              color: #ffffff;
+              border-bottom: 1px solid #ffffff;
+            "
+            >Shannon Gordy</a
+          >
         </mj-text>
 
         <mj-image
+          href="https://www.digypet.com/user/shannon-gordy/services"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image7.png"
           alt=""
           padding="24px"
@@ -154,6 +185,7 @@
         </mj-text>
 
         <mj-image
+          href="https://www.digypet.com/user/shannon-gordy/services"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image8.png"
           alt=""
           padding="24px"
@@ -203,10 +235,20 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Come meet Ashely April
+          Come meet
+          <a
+            href="https://www.digypet.com/user/ashley-paul"
+            style="
+              text-decoration: none;
+              color: #000000;
+              border-bottom: 1px solid #000000;
+            "
+            >Ashely April</a
+          >
         </mj-text>
 
         <mj-image
+          href="https://www.digypet.com/user/ashley-paul"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image9.png"
           alt=""
           padding="24px"
@@ -251,10 +293,20 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Come Meet Geo Brawn
+          Come meet
+          <a
+            href="https://www.digypet.com/user/geo-brawn"
+            style="
+              text-decoration: none;
+              color: #ffffff;
+              border-bottom: 1px solid #ffffff;
+            "
+            >Geo Brawn</a
+          >
         </mj-text>
 
         <mj-image
+          href="https://www.digypet.com/user/geo-brawn"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image10.png"
           alt=""
           padding="24px"
@@ -275,6 +327,7 @@
         </mj-text>
 
         <mj-image
+          href="https://www.digypet.com/user/geo-brawn"
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image11.png"
           alt=""
           padding="24px"
@@ -293,7 +346,25 @@
           From Hamsters to Horses, Parrots to Pomeranians, and Deserts to
           Rainforest, DigyPet is your one-stop-shop for pet care services,
           networking, and education. With DigyPet, you can:
-          <br /><br />
+        </mj-text>
+
+        <mj-image
+          href="https://www.digypet.com/user/geo-brawn"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image12.png"
+          alt=""
+          padding="24px"
+          border-radius="10px"
+        />
+
+        <mj-text
+          align="center"
+          color="#F9FAFB"
+          font-family="Poppins, sans-serif"
+          font-size="14px"
+          font-weight="400"
+          letter-spacing="0.2px"
+          line-height="1.4"
+        >
           Connect with your tribe, share moments, set up groups, plan events,
           raise funds, as well as access hundreds of common, innovative, and
           unique services like walking, sitting, training, grooming, habitat
@@ -302,9 +373,11 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/image12.png"
           alt=""
-          padding="24px"
+          href="https://www.youtube.com/watch?v=qQR8L_0LrYM&t=9s"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/video.png"
+          padding-top="30px"
+          padding-bottom="30px"
           border-radius="10px"
         />
       </mj-column>
