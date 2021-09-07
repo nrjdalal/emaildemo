@@ -25,7 +25,7 @@
         <mj-image
           alt=""
           href="https://www.digypet.com/categories"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/popular-categories.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/newhero.png"
           padding="0"
         />
       </mj-column>
@@ -43,112 +43,20 @@
           letter-spacing="0.2px"
           line-height="1.4"
         >
-          Hi there, my name is Mason.<br /><br />I wanted to thank you for
-          applying to become a pet service provider for DigyPet! To become a
-          service provider, please go to DigyPet.com and build a profile! Please
-          be sure to follow the steps below.
+          Hi there, my name is Mason.<br /><br />I am a pet parent who is
+          passionate about animals, wildlife and eco-awareness just like you.
+          Have you ever thought about having your fur baby transformed into a
+          beautiful pet painting or Pet portrait that you can hang up in that
+          special place for all your friends and family to see? <br /><br />
+          Here at DigyPet we go you covered!
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-01.png"
+          src="https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80"
           padding-top="30px"
-          width="56px"
+          padding-bottom="30px"
+          border-radius="10px"
         />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Upload a stunning profile image and banner.
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-05.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Complete your biography so your new clients will know who you are.
-          This will lead to an increase in bookings.
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-03.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Remember you can add any pet service you want to offer like dog
-          walking, pet sitting, training, grooming, pet photography, horseback
-          riding lessons and more!
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-04.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          You work when you want and how you want by only accepting the gigs
-          that you want.
-        </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/digypet/assets/point-02.png"
-          width="56px"
-        />
-
-        <mj-text
-          align="center"
-          color="#F9FAFB"
-          font-family="Poppins, sans-serif"
-          font-size="14px"
-          font-weight="400"
-          letter-spacing="0.2px"
-          line-height="1.4"
-        >
-          Do you have reviews on Facebook or Rover? Get a head start building
-          your profile by importing existing reviews from Facebook and Rover.
-          Don’t forget you can also upload or create personal blogs.
-        </mj-text>
-
-        <mj-button
-          href="https://www.digypet.com/"
-          background-color="#EF4444"
-          font-size="14px"
-          padding-top="36px"
-          padding-bottom="24px"
-          >Complete Your Profile</mj-button
-        >
       </mj-column>
     </mj-section>
 
