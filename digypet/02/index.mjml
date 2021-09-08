@@ -35,7 +35,7 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-text
-          align="center"
+          align="left"
           color="#0EA5E9"
           font-family="Poppins, sans-serif"
           font-size="16px"
@@ -45,6 +45,7 @@
         >
           Hi there, my name is Mason.<br /><br />I am a pet parent who is
           passionate about animals, wildlife and eco-awareness just like you.
+          <br /><br />
           Have you ever thought about having your fur baby transformed into a
           beautiful pet painting or Pet portrait that you can hang up in that
           special place for all your friends and family to see? <br /><br />
