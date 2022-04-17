@@ -2,15 +2,14 @@
   <mj-head>
     <mj-style>
       @font-face { font-family: AceSans; src:
-      url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansRegular.woff')
-      format('woff'); } @font-face { font-family: AceSansBold; src:
-      url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansBold.woff')
-      format('woff'); }
+      url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansRegular.woff') format('woff'); }
+      @font-face { font-family: AceSansBold; src:
+      url('https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/fonts/AceSansBold.woff') format('woff'); }
     </mj-style>
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#171717">
+    <mj-section>
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
@@ -54,16 +53,9 @@
         >
           The Brilliant Solution To Sustainability
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-size="14px"
-          font-weight="100"
-        >
-          As a natural resource, bamboo offers a myriad of advantages that make
-          it the best solution to reducing waste and creating sustainable
-          solutions to stubborn business problems.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-size="14px" font-weight="100">
+          As a natural resource, bamboo offers a myriad of advantages that make it the best solution to reducing waste
+          and creating sustainable solutions to stubborn business problems.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -88,15 +80,8 @@
         >
           RE-USABLE
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          Bamboo extends the life of each straw by 100 times! Save money and
-          reduce waste one straw at a time.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          Bamboo extends the life of each straw by 100 times! Save money and reduce waste one straw at a time.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -121,17 +106,9 @@
         >
           BIODEGRADABLE
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          When you eventually get rid of your bamboo straws, you don’t have to
-          worry about whether it will contribute to pollution because, as a
-          natural product, it will decay on its own without harming the
-          environment.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          When you eventually get rid of your bamboo straws, you don’t have to worry about whether it will contribute to
+          pollution because, as a natural product, it will decay on its own without harming the environment.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -156,18 +133,10 @@
         >
           SUSTAINABLE
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          In making products that are 100% natural, recyclable, biodegradable,
-          and re- usable, we are serving the future by creating a sustainable
-          way of life. A sustainable approach means you reduce waste and
-          effectively manage natural resources for today’s and tomorrow’s
-          generations. We even use sustainable product packaging.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          In making products that are 100% natural, recyclable, biodegradable, and re- usable, we are serving the future
+          by creating a sustainable way of life. A sustainable approach means you reduce waste and effectively manage
+          natural resources for today’s and tomorrow’s generations. We even use sustainable product packaging.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -192,18 +161,10 @@
         >
           ZERO WASTE
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          Waste is a thing of the past with our premium re-usable bamboo
-          drinking straws. This is the first step towards creating resource life
-          cycles where all products can be re-used. At Mr. Bamboo Straws, our
-          mission is to stop sending trash to the ocean, incinerators, or
-          landfills.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          Waste is a thing of the past with our premium re-usable bamboo drinking straws. This is the first step towards
+          creating resource life cycles where all products can be re-used. At Mr. Bamboo Straws, our mission is to stop
+          sending trash to the ocean, incinerators, or landfills.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -228,16 +189,9 @@
         >
           100% NATURAL
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          We really mean it. There are no chemicals or pesticides used at any
-          stage of the process – during growth, harvest, or production.
-          Completely natural and entirely harmless to the environment.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          We really mean it. There are no chemicals or pesticides used at any stage of the process – during growth,
+          harvest, or production. Completely natural and entirely harmless to the environment.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -262,17 +216,10 @@
         >
           ECO-FRIENDLY
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          Bamboo straws can’t damage the environment because whether you have
-          them recycled or simply throw them away, they don’t contain harmful
-          chemicals or pesticides. This means they will either naturally decay,
-          or you can have them recycled to create new straws.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          Bamboo straws can’t damage the environment because whether you have them recycled or simply throw them away,
+          they don’t contain harmful chemicals or pesticides. This means they will either naturally decay, or you can
+          have them recycled to create new straws.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -297,28 +244,17 @@
         >
           HANDMADE WITH LOVE
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="left"
-          line-height="1.4"
-          font-weight="100"
-          font-size="10px"
-        >
-          Each straw is harvested from government-controlled national parks in
-          Vietnam. This ensures that only the excess bamboo is used for straws,
-          and the factory where they are manufactured makes sure not to use any
-          chemicals during the process. We can also brand your straws using the
-          best quality laser-marking.
+        <mj-text color="#FFFFFF" align="left" line-height="1.4" font-weight="100" font-size="10px">
+          Each straw is harvested from government-controlled national parks in Vietnam. This ensures that only the
+          excess bamboo is used for straws, and the factory where they are manufactured makes sure not to use any
+          chemicals during the process. We can also brand your straws using the best quality laser-marking.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#171717" padding="24px 0">
       <mj-column>
-        <mj-button
-          href="https://misterbamboostraws.com"
-          background-color="#171717"
-          border="2px solid #FFFFFF"
+        <mj-button href="https://misterbamboostraws.com" background-color="#171717" border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -333,10 +269,7 @@
         >
       </mj-column>
       <mj-column>
-        <mj-button
-          href="https://misterbamboostraws.com"
-          background-color="#171717"
-          border="2px solid #FFFFFF"
+        <mj-button href="https://misterbamboostraws.com" background-color="#171717" border="2px solid #FFFFFF"
           ><mj-text
             color="#FFFFFF"
             align="left"
@@ -374,18 +307,10 @@
         >
           STYLE YOUR STRAWS
         </mj-text>
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          You can personalize and individualize your straws with laser-marking,
-          laser-branding, or laser-engraving – all of which mean the same thing.
-          Using a best-in-market CO2 laser machine from Perfect Laser, with a
-          30W Synrad metal laser module, we can create distinctive straws that
-          express the style of your brand.
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          You can personalize and individualize your straws with laser-marking, laser-branding, or laser-engraving – all
+          of which mean the same thing. Using a best-in-market CO2 laser machine from Perfect Laser, with a 30W Synrad
+          metal laser module, we can create distinctive straws that express the style of your brand.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -411,42 +336,21 @@
 
     <mj-section background-color="#FFFFFF">
       <mj-column padding="24px 0 0 0">
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          With the best equipment, we can create the best quality laser-marking!
-          This is sure to be an impactful conversation starter as we can even
-          personalize your packaging with the company logo or text. Not only
-          will you make a statement about the values your company holds dear,
-          but you will also make sure customers never forget which brand
-          genuinely cares about protecting the environment.
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          With the best equipment, we can create the best quality laser-marking! This is sure to be an impactful
+          conversation starter as we can even personalize your packaging with the company logo or text. Not only will
+          you make a statement about the values your company holds dear, but you will also make sure customers never
+          forget which brand genuinely cares about protecting the environment.
         </mj-text>
 
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          Set your brand apart as one that actively drives sustainability, and
-          show them that you don’t just... Talk the talk... You walk the walk!
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          Set your brand apart as one that actively drives sustainability, and show them that you don’t just... Talk the
+          talk... You walk the walk!
         </mj-text>
 
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          Mister Bamboo Straws is already working with the biggest brands in
-          liquor and soft drinks, so join this international movement of
-          sustainability soldiers and become an eco-friendly brand.
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          Mister Bamboo Straws is already working with the biggest brands in liquor and soft drinks, so join this
+          international movement of sustainability soldiers and become an eco-friendly brand.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -482,16 +386,9 @@
         >
           Size Us Up
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          The standard length of our bamboo straws is 20cm or 12,5cm. But you
-          can also request other lengths and we will happily deliver a
-          customized product that meets your exact specifications.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          The standard length of our bamboo straws is 20cm or 12,5cm. But you can also request other lengths and we will
+          happily deliver a customized product that meets your exact specifications.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -557,19 +454,11 @@
         >
           Get Bamboo Straws in these dimensions
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          For normal high-ball glasses, you will need the 20cm straws, and for
-          low-ball or whiskey glasses and cocktail glasses, you will need 12,5cm
-          straws. The diameter will vary thanks to the natural thickness of each
-          individual bamboo piece, but we divide diameters for different drinks
-          into 5mm-11mm for normal drinks and 11mm-15mm for thick smoothies,
-          bubble tea and milkshakes.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          For normal high-ball glasses, you will need the 20cm straws, and for low-ball or whiskey glasses and cocktail
+          glasses, you will need 12,5cm straws. The diameter will vary thanks to the natural thickness of each
+          individual bamboo piece, but we divide diameters for different drinks into 5mm-11mm for normal drinks and
+          11mm-15mm for thick smoothies, bubble tea and milkshakes.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -616,21 +505,12 @@
         >
           Standard Packaging
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          For our standard packaging, your bamboo straws are 20cm or 12,5cm long
-          which varies slightly based on the bamboo thickness. We separate the
-          diameters into 5mm-11mm for normal straws and 11mm-15mm for thicker
-          drinks like smoothies, bubble tea and milkshakes. We use sustainable
-          product packaging as it’s made of recycled materials – the cardboard
-          boxes come from recycled Kraft paper to make it as eco-friendly as
-          possible. Our pouches carry 2 or 5 bamboo straws, while our cardboard
-          boxes carry 25, 50, 100, 200, or 1000 straws.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          For our standard packaging, your bamboo straws are 20cm or 12,5cm long which varies slightly based on the
+          bamboo thickness. We separate the diameters into 5mm-11mm for normal straws and 11mm-15mm for thicker drinks
+          like smoothies, bubble tea and milkshakes. We use sustainable product packaging as it’s made of recycled
+          materials – the cardboard boxes come from recycled Kraft paper to make it as eco-friendly as possible. Our
+          pouches carry 2 or 5 bamboo straws, while our cardboard boxes carry 25, 50, 100, 200, or 1000 straws.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -657,16 +537,9 @@
         >
           Personalized Packaging
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          We are also happy to create unique packaging that captures your
-          specific brand and style. Simply send us the logo and preferred text,
-          and we will insert this on all our sustainable product packaging.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          We are also happy to create unique packaging that captures your specific brand and style. Simply send us the
+          logo and preferred text, and we will insert this on all our sustainable product packaging.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -703,30 +576,19 @@
         >
           Certified For Safe Use
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          Rest assured, we have all the requisite certifications for complete
-          compliance with the European and American regulations for food contact
-          materials and food safety. Our bamboo straws have been independently
-          tested by the SGS and TUV Rheinland to guarantee that they are safe to
-          use.
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          Rest assured, we have all the requisite certifications for complete compliance with the European and American
+          regulations for food contact materials and food safety. Our bamboo straws have been independently tested by
+          the SGS and TUV Rheinland to guarantee that they are safe to use.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#171717">
+      <!-- <mj-column>
+        <mj-image src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.svg" alt="" height="48px" />
+      </mj-column> -->
       <mj-column>
-        <mj-image
-          src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.svg"
-          alt=""
-          height="48px"
-        /> </mj-column
-      ><mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/tuv.svg"
           alt=""
@@ -765,15 +627,8 @@
         >
           Global Partner
         </mj-text>
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          For the new category of Hard Seltzers, direct from Ketel1. Summer is
-          coming!
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          For the new category of Hard Seltzers, direct from Ketel1. Summer is coming!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -800,15 +655,9 @@
         >
           Bandido
         </mj-text>
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          Surprise your guests with Premium Bamboo Drinking Straws. Show your
-          guests that your bar or restaurant is more and more sustainable.
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          Surprise your guests with Premium Bamboo Drinking Straws. Show your guests that your bar or restaurant is more
+          and more sustainable.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -835,15 +684,8 @@
         >
           Bombay Sapphire
         </mj-text>
-        <mj-text
-          color="#171717"
-          align="center"
-          line-height="1.4"
-          font-weight="100"
-          font-size="14px"
-        >
-          Specially laser-branded Bamboo Drinking Straws for the limited edition
-          gins from Bombay Sapphire.
+        <mj-text color="#171717" align="center" line-height="1.4" font-weight="100" font-size="14px">
+          Specially laser-branded Bamboo Drinking Straws for the limited edition gins from Bombay Sapphire.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -860,7 +702,7 @@
 
     <!-- contact -->
     <mj-section background-color="#171717">
-      <mj-column padding="24px 0">
+      <mj-column padding-top="24px">
         <mj-text
           color="#FFFFFF"
           align="center"
@@ -884,23 +726,15 @@
           <br />
           VIETNAM
         </mj-text>
-        <mj-text
-          color="#FFFFFF"
-          align="center"
-          line-height="1.4"
-          font-family="AceSans, sans-serif;"
-          font-size="14px"
-        >
-          <a
-            href="mailto:info@misterbamboostraws.com"
-            style="text-decoration: none; color: #ffffff"
+        <mj-text color="#FFFFFF" align="center" line-height="1.4" font-family="AceSans, sans-serif;" font-size="14px">
+          <a href="mailto:info@misterbamboostraws.com" style="text-decoration: none; color: #ffffff"
             >info@misterbamboostraws.com</a
           >
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#171717" padding="0" padding-bottom="24px">
+    <mj-section padding-top="24px" padding-bottom="24px">
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
@@ -912,38 +746,22 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#171717">
+    <mj-section padding="0">
       <mj-column>
         <mj-divider width="300px" border-color="#777777" border-width="1px" />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#171717" padding="0" padding-bottom="24px">
+    <mj-section padding="0" padding-bottom="24px">
       <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            background-color="#171717"
-            name="instagram"
-            href="https://misterbamboostraws.com/"
-          >
+          <mj-social-element background-color="#171717" name="instagram" href="https://misterbamboostraws.com/">
           </mj-social-element>
-          <mj-social-element
-            background-color="#171717"
-            name="facebook"
-            href="https://misterbamboostraws.com/"
-          >
+          <mj-social-element background-color="#171717" name="facebook" href="https://misterbamboostraws.com/">
           </mj-social-element>
-          <mj-social-element
-            background-color="#171717"
-            name="linkedin"
-            href="https://misterbamboostraws.com/"
-          >
+          <mj-social-element background-color="#171717" name="linkedin" href="https://misterbamboostraws.com/">
           </mj-social-element>
-          <mj-social-element
-            background-color="#171717"
-            name="pinterest"
-            href="https://misterbamboostraws.com/"
-          >
+          <mj-social-element background-color="#171717" name="pinterest" href="https://misterbamboostraws.com/">
           </mj-social-element>
         </mj-social>
       </mj-column>
