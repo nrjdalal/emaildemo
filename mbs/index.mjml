@@ -13,7 +13,7 @@
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.png"
           alt=""
           width="300px"
           padding="0"
@@ -586,18 +586,18 @@
 
     <mj-section background-color="#171717">
       <!-- <mj-column>
-        <mj-image src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.svg" alt="" height="48px" />
+        <mj-image src="https://upload.wikimedia.org/wikipedia/en/1/1d/SGS_SA.png" alt="" height="48px" />
       </mj-column> -->
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/tuv.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/tuv.png"
           alt=""
           height="52px"
         />
       </mj-column>
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/fda.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/fda.png"
           alt=""
           height="48px"
         />
@@ -738,7 +738,7 @@
       <mj-column>
         <mj-image
           href="https://misterbamboostraws.com"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/mbs/assets/white-logo-linear.png"
           alt=""
           width="300px"
           padding="0"
